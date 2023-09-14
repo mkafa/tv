@@ -1,1 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="INDOSIAR_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="FHD", INDOSIAR
+http://103.166.27.2:800/play/a016
 
