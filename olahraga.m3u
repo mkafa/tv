@@ -27,8 +27,11 @@ https://delivery.ksa.my.id/stream/macan_sport_4/playlist.m3u8?token=ym1wtrp
 
 
 === BEIN SPORTS XTRA ===
-#EXTINF:-1 tvg-id="BEINSPORTSXTRA_1" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="OLAHRAGA",beIN XTRA
+#EXTINF:-1 tvg-id="BEINSPORTSXTRA_1" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="OLAHRAGA",beIN SPORTS XTRA
 https://bit.ly/3t7HM45
+
+#EXTINF:-1 tvg-id="BEINSPORTSXTRA_2" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="OLAHRAGA",beIN SPORTS XTRA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 === ASTRO SUPERSPORT 1 ===
