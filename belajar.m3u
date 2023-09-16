@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 1
-https://kusnadipepenk.github.io/ntn/asp3.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://ys-users.com:8080/live/Lolo/jENcZgQKEQ/497613.ts
