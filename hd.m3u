@@ -78,3 +78,17 @@ https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 #EXTINF:-1 tvg-id="BEINSPORTS3_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="HD",beIN Sports 3
 https://nonton.site:8443/ekos/7483/729
 
+
+=== USEE SPORTS 1 ===
+#EXTINF:0 tvg-id="USEESPORTS1(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/640px-Usee_Sports.png" group-title="HD",Usee SPORTS 1
+https://delivery.ksa.my.id/stream/macan_sport_3/playlist.m3u8?token=ym1wtrp
+
+
+=== USEE SPORTS 2 ===
+#EXTINF:0 tvg-id="USEESPORTS2(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/640px-Usee_Sports.png" group-title="HD",Usee SPORTS 2
+https://delivery.ksa.my.id/stream/macan_sport_4/playlist.m3u8?token=ym1wtrp
+
+
+=== BEIN SPORTS XTRA ===
+#EXTINF:-1 tvg-id="BEINSPORTSXTRA_1" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="HD",beIN XTRA
+https://bit.ly/3t7HM45
