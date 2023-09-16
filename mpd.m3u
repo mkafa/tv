@@ -226,6 +226,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 #EXTINF:-1 tvg-id="Sportstars_6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/640px-Sportstars.png" group-title="Channel 1",Sportstars 6
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="Sportstars_7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/640px-Sportstars.png" group-title="Channel 1",Sportstars 7
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
 ==== MNC SPORT 2 ====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -257,6 +262,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #EXTINF:-1 tvg-id="Sportstars2_6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="Channel 1",Sportstars2 6
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="Sportstars2_7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="Channel 1",Sportstars2 7
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
 ==== MNC SPORT 3 ====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
@@ -271,6 +281,11 @@ https://anevia114.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTINF:-1 tvg-id="Sportstars3_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="Channel 1",Sportstars3 3
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="Sportstars3_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="Channel 1",Sportstars3 4
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 ==== Soccer Channel ====
@@ -309,6 +324,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:-1 tvg-id="SoccerChannel_7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SoccerChannel2020.png/640px-SoccerChannel2020.png" group-title="Channel 1",Soccer Channel 7
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="SoccerChannel_7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SoccerChannel2020.png/640px-SoccerChannel2020.png" group-title="Channel 1",Soccer Channel 7
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
 ==== SPOTV 1 ====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -340,6 +360,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV_6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="Channel 1",SPOTV 6
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd?token_zulkarnaien66
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="SPOTV_7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="Channel 1",SPOTV 7
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
 ==== SPOTV 2 ====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -370,6 +395,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="SPOTV2_6" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="Channel 1",SPOTV2 6
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd?token_zulkarnaien66
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="SPOTV2_7" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="Channel 1",SPOTV2 7
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 ==== ANIMAX ====
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
