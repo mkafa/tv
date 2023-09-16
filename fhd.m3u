@@ -26,3 +26,8 @@ http://tvkuonline.my.id:25461/riyad/riyad/24
 
 #EXTINF:-1 tvg-id="MOJI_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="FHD", MOJI
 http://thefirefox12537.github.io/streams/moji.m3u8
+
+
+=== TRANS 7 ===
+#EXTINF:-1 tvg-id="TRANS7_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="FHD",TRANS 7
+https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
