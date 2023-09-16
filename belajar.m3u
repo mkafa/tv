@@ -1,5 +1,4 @@
 #EXTM3U
 
-
-#EXTINF:-1 ,FIGHT
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 2
+https://kusnadipepenk.github.io/ntn/asp2.m3u8
