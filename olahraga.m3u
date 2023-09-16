@@ -95,3 +95,16 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 #EXTINF:-1 tvg-id="SKYSPORTARENA(FHD_50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/260px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="OLAHRAGA",sky sport arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
+
+
+=== EUROSPORTS 1 ===
+#EXTINF:-1 tvg-id="EUROSPORTS1(FHD_50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/4221.ts
+
+
+=== EUROSPORTS 2 ===
+#EXTINF:-1 tvg-id="EUROSPORTS2(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 2
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/4222.ts
+
+
+
