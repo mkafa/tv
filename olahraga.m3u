@@ -6,20 +6,24 @@
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141846&extension=m3u8
 
 
-=== BEIN SPORTS 1 ===
-#EXTINF:-1 tvg-id="BEINSPORTS1(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
-https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
-
-#EXTINF:-1 tvg-id="BEINSPORTS1_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
+=== BEIN SPORTS 1 INDONESIA ===
+#EXTINF:-1 tvg-id="BEINSPORTS1INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1 INDONESIA
 https://nonton.site:8443/ekos/7483/728
+
+
+=== BEIN SPORTS 2 INDONESIA ===
+#EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2 INDONESIA
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141856&extension=m3u8
+
+
+=== BEIN SPORTS 3 INDONESIA ===
+#EXTINF:-1 tvg-id="BEINSPORTS3INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3 INDONESIA
+https://nonton.site:8443/ekos/7483/729
 
 
 === BEIN SPORTS 3 ===
 #EXTINF:-1 tvg-id="BEINSPORTS3(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
-https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
-
-#EXTINF:-1 tvg-id="BEINSPORTS3_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
-https://nonton.site:8443/ekos/7483/729
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141845&extension=m3u8
 
 
 === USEE SPORTS 1 ===
@@ -112,8 +116,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
 
 
 === SKY SPORT ARENA ===
-
-https://kusnadipepenk.github.io/ntn/skyare.m3u8
 #EXTINF:-1 tvg-id="SKYSPORTARENA(FHD_50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/260px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="OLAHRAGA",sky sport arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 
