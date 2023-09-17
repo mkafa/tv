@@ -46,3 +46,11 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=54244&exte
 === MNCTV ===
 #EXTINF:-1 tvg-id="MNCTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
 http://202.150.172.59:80/MNCTV/tracks-v1a1/mono.m3u8
+
+
+=== SKY NEWS ===
+#EXTINF:-1 tvg-id="SKYNEWS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/640px-Sky-news-logo.png" group-title="FHD",sky news
+https://d301yv2uyy17su.cloudfront.net/05_hd.m3u8
+
+#EXTINF:-1 tvg-id="SKYNEWS_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/640px-Sky-news-logo.png" group-title="FHD",sky news
+https://d301yv2uyy17su.cloudfront.net/05_hd.m3u8
