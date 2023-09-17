@@ -1,5 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="Local Channel",103 TV One
-http://ddy1.cdnhks.lol/ddy1/premium123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TESTMPD" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTVs(Trans)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
