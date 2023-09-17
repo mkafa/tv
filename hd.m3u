@@ -25,6 +25,12 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968
 #EXTINF:-1 tvg-id="MNCTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="HD",MNCTV
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880793
 
+#EXTINF:-1 tvg-id="MNCTV_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="HD",MNCTV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6-mp4a_98800=2.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV_5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="HD",MNCTV
+http://4ksuper.live:80/play/live.php?mac=00:1a:79:50:63:9e&stream=683098&extension=m3u8&play_token=Z0j5OUmobm
+
 
 === GTV ===
 #EXTINF:-1 tvg-id="GTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
@@ -32,6 +38,9 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #EXTINF:-1 tvg-id="GTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_2499968=6.m3u8
+
+#EXTINF:-1 tvg-id="GTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-mp4a_98800=2-avc1_1000000=4.m3u8
 
 
 === iNews ===
@@ -43,6 +52,9 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968
 
 #EXTINF:-1 tvg-id="iNews_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
 https://kusnadipepenk.github.io/campeign/inews.m3u8
+
+#EXTINF:-1 tvg-id="iNews_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7-mp4a_98800=3.m3u8
 
 
 === TRANSTV ===
