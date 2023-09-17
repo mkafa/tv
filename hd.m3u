@@ -56,6 +56,9 @@ https://kusnadipepenk.github.io/campeign/inews.m3u8
 #EXTINF:-1 tvg-id="iNews_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7-mp4a_98800=3.m3u8
 
+#EXTINF:-1 tvg-id="iNews_5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
+https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+
 
 === TRANSTV ===
 #EXTINF:-1 tvg-id="TRANSTV(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",TRANS TV
