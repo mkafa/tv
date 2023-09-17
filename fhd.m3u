@@ -36,3 +36,8 @@ https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
 === METRO TV ===
 #EXTINF:-1 tvg-id="METROTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="FHD",METRO TV
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880794
+
+
+=== TV ONE ===
+#EXTINF:-1 tvg-id="TVONE_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/640px-TvOne_2023.svg.png" group-title="FHD",tv One
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=54244&extension=m3u8
