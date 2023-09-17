@@ -42,6 +42,12 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068.ts
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT1(FHD_50FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/640px-Astro_ASSP1.png" group-title="OLAHRAGA",astro SUPERSPORT
 https://kusnadipepenk.github.io/ntn/asp1.m3u8
 
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT1(FHD_50FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/640px-Astro_ASSP1.png" group-title="OLAHRAGA",astro SUPERSPORT
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115615&extension=m3u8
+
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT1(FHD_50FPS)_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/640px-Astro_ASSP1.png" group-title="OLAHRAGA",astro SUPERSPORT
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=115615&extension=m3u8&play_token
+
 
 === ASTRO SUPERSPORT 2 ===
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT2_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Astro_ASSP2.png/640px-Astro_ASSP2.png" group-title="OLAHRAGA",astro SUPERSPORT 2
@@ -50,6 +56,9 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556.ts
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT2(FHD_50FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Astro_ASSP2.png/640px-Astro_ASSP2.png" group-title="OLAHRAGA",astro SUPERSPORT 2
 https://kusnadipepenk.github.io/ntn/asp2.m3u8
+
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT2(FHD_50FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Astro_ASSP2.png/640px-Astro_ASSP2.png" group-title="OLAHRAGA",astro SUPERSPORT 2
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115616&extension=m3u8
 
 
 === ASTRO SUPERSPORT 3 ===
@@ -60,6 +69,9 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557.ts
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT3(FHD_50FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Astro_ASSP3.png/640px-Astro_ASSP3.png" group-title="OLAHRAGA",astro SUPERSPORT 3
 https://kusnadipepenk.github.io/ntn/asp3.m3u8
 
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT3(FHD_50FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Astro_ASSP3.png/640px-Astro_ASSP3.png" group-title="OLAHRAGA",astro SUPERSPORT 3
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115617&extension=m3u8
+
 
 === ASTRO SUPERSPORT 4 ===
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT4_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Astro_ASSP4.png/640px-Astro_ASSP4.png" group-title="OLAHRAGA",astro SUPERSPORT 4
@@ -68,6 +80,9 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558.ts
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT4(FHD_50FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Astro_ASSP4.png/640px-Astro_ASSP4.png" group-title="OLAHRAGA",astro SUPERSPORT 4
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
+
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT4(FHD_50FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Astro_ASSP4.png/640px-Astro_ASSP4.png" group-title="OLAHRAGA",astro SUPERSPORT 4
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115618&extension=m3u8
 
 
 === ASTRO SUPERSPORT 5 ===
