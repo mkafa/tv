@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, OPTUS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+#EXTINF:0, OPTUS
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519251_&extension=ts
 
 #EXTINF:-1, beIN Sports 1 INDONESIA
