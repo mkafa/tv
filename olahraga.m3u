@@ -167,3 +167,63 @@ http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79484&extension=m
 === NBA TV ===
 #EXTINF:-1 tvg-id="NBATV(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115738&extension=m3u8
+
+
+=== OPTUS SPORT 1 ===
+#EXTINF:-1 tvg-id="OPTUS1(50FPS)_1" tvg-logo="https://i.imgur.com/OFcWnFz.png" group-title="OLAHRAGA",OPTUS 1
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754604
+
+
+=== OPTUS SPORT 2 ===
+#EXTINF:-1 tvg-id="OPTUS2(50FPS)_1" tvg-logo="https://i.imgur.com/hXEgXLg.png" group-title="OLAHRAGA",OPTUS 2
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754605
+
+
+=== OPTUS SPORT 3 ===
+#EXTINF:-1 tvg-id="OPTUS3(50FPS)_1" tvg-logo="https://i.imgur.com/QXS794i.png" group-title="OLAHRAGA",OPTUS 3
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754606
+
+
+=== OPTUS SPORT 4 ===
+#EXTINF:-1 tvg-id="OPTUS4(50FPS)_1" tvg-logo="https://i.imgur.com/h5fulXI.png" group-title="OLAHRAGA",OPTUS 4
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754607
+
+
+=== OPTUS SPORT 5 ===
+#EXTINF:-1 tvg-id="OPTUS5(50FPS)_1" tvg-logo="https://i.imgur.com/6wbcy6J.png" group-title="OLAHRAGA",OPTUS 5
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754608
+
+
+=== OPTUS SPORT 6 ===
+#EXTINF:-1 tvg-id="OPTUS6(50FPS)_1" tvg-logo="https://i.imgur.com/fwW5nXO.png" group-title="OLAHRAGA",OPTUS 6
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754609
+
+
+=== OPTUS SPORT 7 ===
+#EXTINF:-1 tvg-id="OPTUS7(50FPS)_1" tvg-logo="https://resourcesssl.newscdn.com.au/cs/ts2020/assets/images/sport-images/logo/optussport-rectangle.png" group-title="OLAHRAGA",OPTUS 7
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754610
+
+
+=== OPTUS SPORT 8 ===
+#EXTINF:-1 tvg-id="OPTUS8(50FPS)_1" tvg-logo="https://resourcesssl.newscdn.com.au/cs/ts2020/assets/images/sport-images/logo/optussport-rectangle.png" group-title="OLAHRAGA",OPTUS 8
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754611
+
+
+=== OPTUS SPORT 9 ===
+#EXTINF:-1 tvg-id="OPTUS9(50FPS)_1" tvg-logo="https://resourcesssl.newscdn.com.au/cs/ts2020/assets/images/sport-images/logo/optussport-rectangle.png" group-title="OLAHRAGA",OPTUS 9
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754612
+
+
+=== OPTUS SPORT 10 ===
+#EXTINF:-1 tvg-id="OPTUS10(50FPS)_1" tvg-logo="https://resourcesssl.newscdn.com.au/cs/ts2020/assets/images/sport-images/logo/optussport-rectangle.png" group-title="OLAHRAGA",OPTUS 10
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754613
+
+
+=== OPTUS SPORT 11 ===
+#EXTINF:-1 tvg-id="OPTUS11(50FPS)_1" tvg-logo="https://resourcesssl.newscdn.com.au/cs/ts2020/assets/images/sport-images/logo/optussport-rectangle.png" group-title="OLAHRAGA",OPTUS 11
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754614
+
+
+=== OPTUS SPORT 12 ===
+#EXTINF:-1 tvg-id="OPTUS12(50FPS)_1" tvg-logo="https://resourcesssl.newscdn.com.au/cs/ts2020/assets/images/sport-images/logo/optussport-rectangle.png" group-title="OLAHRAGA",OPTUS 12
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754615
