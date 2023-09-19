@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-id="BEINSPORTS(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/640px-BeIN_Sports_logo_%282017%29.png" group-title="OLAHRAGA",beIN Sports
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141846&extension=m3u8
 
+#EXTINF:-1 tvg-id="BEINSPORTS(50 FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/640px-BeIN_Sports_logo_%282017%29.png" group-title="OLAHRAGA",beIN Sports
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/1055763
+
 
 === BEIN SPORTS 1 INDONESIA ===
 #EXTINF:-1 tvg-id="BEINSPORTS1INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1 INDONESIA
@@ -18,6 +21,9 @@ https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
 #EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2 INDONESIA
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141856&extension=m3u8
 
+#EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50 FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2 INDONESIA
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/1055764
+
 
 === BEIN SPORTS 3 INDONESIA ===
 #EXTINF:-1 tvg-id="BEINSPORTS3INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3 INDONESIA
@@ -30,6 +36,9 @@ https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 === BEIN SPORTS 3 ===
 #EXTINF:-1 tvg-id="BEINSPORTS3(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141845&extension=m3u8
+
+#EXTINF:-1 tvg-id="BEINSPORTS3(50 FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
+http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/1055765
 
 
 === USEE SPORTS 1 ===
@@ -280,6 +289,12 @@ http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754596
 === NOW SPORTS 1 ===
 #EXTINF:-1 tvg-id="NOWSPORTS1(50FPS)_1" tvg-logo="https://www.nowtv.now.com/media/s-logo/631_e.png" group-title="OLAHRAGA",now SPORTS 1
 http://servi-teevee.net:80/BigBoB747475564765Hgdr/GhyT82FaS2828Mas/754597
+
+#EXTINF:-1 tvg-id="NOWSPORTS1(50FPS)_2" tvg-logo="https://www.nowtv.now.com/media/s-logo/631_e.png" group-title="OLAHRAGA",now SPORTS 1
+http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&extension=m3u8&play_token=waduklah
+
+#EXTINF:-1 tvg-id="NOWSPORTS1(50FPS)_3" tvg-logo="https://www.nowtv.now.com/media/s-logo/631_e.png" group-title="OLAHRAGA",now SPORTS 1
+http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&extension=ts&play_token=waduklah
 
 
 === NOW SPORTS 2 ===
