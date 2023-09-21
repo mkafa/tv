@@ -2,14 +2,14 @@
 
 === INDOSIAR ===
 #EXTINF:-1 tvg-id="INDOSIAR_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="FHD", INDOSIAR
-http://103.166.27.2:800/play/a016
+
 
 === SCTV ===
 #EXTINF:-1 tvg-id="SCTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD", SCTV
-http://103.166.27.2:800/play/a015
+
 
 #EXTINF:-1 tvg-id="SCTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD", SCTV
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162141
+
 
 #EXTINF:-1 tvg-id="SCTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD", SCTV
 http://xtv.ooo:8080/88876776555/87677666654/351030
