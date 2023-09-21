@@ -8,34 +8,20 @@
 #EXTINF:-1 tvg-id="SCTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD", SCTV
 
 
-#EXTINF:-1 tvg-id="SCTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD", SCTV
-
-
-#EXTINF:-1 tvg-id="SCTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD", SCTV
-http://xtv.ooo:8080/88876776555/87677666654/351030
-
-#EXTINF:-1 tvg-id="SCTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD", SCTV
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880789
 
 === MOJI ===
 #EXTINF:-1 tvg-id="MOJI_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="FHD", MOJI
-http://103.166.27.2:800/play/a017
-
-#EXTINF:-1 tvg-id="MOJI_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="FHD", MOJI
 http://tvkuonline.my.id:25461/riyad/riyad/24
-
-#EXTINF:-1 tvg-id="MOJI_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="FHD", MOJI
-http://thefirefox12537.github.io/streams/moji.m3u8
 
 
 === TRANS 7 ===
 #EXTINF:-1 tvg-id="TRANS7_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="FHD",TRANS 7
-https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
+
 
 
 === METRO TV ===
 #EXTINF:-1 tvg-id="METROTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="FHD",METRO TV
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880794
+
 
 
 === TV ONE ===
