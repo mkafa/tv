@@ -3,9 +3,3 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 #EXTINF:0, OPTUS
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519251_&extension=ts
-
-#EXTINF:-1 tvg-id="INDOSIAR_1", INDOSIAR
-http://103.166.27.2:800/play/a016
-
-#EXTINF:-1, SCTV
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880789
