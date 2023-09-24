@@ -10,9 +10,6 @@
 #EXTINF:-1 tvg-id="MNCTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="HD",MNCTV
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880793
 
-#EXTINF:-1 tvg-id="MNCTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="HD",MNCTV
-http://4ksuper.live:80/play/live.php?mac=00:1a:79:50:63:9e&stream=683098&extension=m3u8&play_token=Z0j5OUmobm
-
 
 === GTV ===
 #EXTINF:-1 tvg-id="GTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
@@ -25,22 +22,16 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=19
 
 
 === TRANSTV ===
-#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",TRANS TV
+#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="HD",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1655897278_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",TRANS TV
+#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="HD",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",TRANS TV
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880790
-
-#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1317535298_b544100_sleng.m3u8
-
-#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",TRANS TV
+#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="HD",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",TRANS TV
+#EXTINF:-1 tvg-id="TRANSTV(50 FPS)_4" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="HD",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 
@@ -52,12 +43,9 @@ https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TRANS7_3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="HD",TRANS 7
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880791
-
-#EXTINF:-1 tvg-id="TRANS7_4" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="HD",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1820541708_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="TRANS7_5" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="HD",TRANS 7
+#EXTINF:-1 tvg-id="TRANS7_4" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="HD",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 
@@ -90,9 +78,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNINDONESIA_5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/640px-Logo_of_CNN_Indonesia.svg.png" group-title="HD",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="CNNINDONESIA_6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/640px-Logo_of_CNN_Indonesia.svg.png" group-title="HD",CNN INDONESIA
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162137
-
 
 === CNN INTERNATIONAL ===
 #EXTINF:-1 tvg-id="CNNINTERNATIONAL_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/640px-CNN_International_logo.svg.png" group-title="HD",CNN International
@@ -101,12 +86,12 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 === INDOSIAR ===
 #EXTINF:-1 tvg-id="INDOSIAR_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="HD",INDOSIAR
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880788
+
 
 
 === MOJI ===
 #EXTINF:-1 tvg-id="MOJI(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="HD",moji
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880795
+
 
 
 === TVRI ===
@@ -117,6 +102,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 === TVRI SPORT ===
 #EXTINF:-1 tvg-id="TVRISPORT_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/640px-TVRI_Sport_2022.svg.png" group-title="HD",TVRI SPORT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
 
 === TVRI WORLD ===
 #EXTINF:-1 tvg-id="TVRIWORLD_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/640px-TVRIWorld.png" group-title="HD",TVRI WORLD
@@ -135,7 +121,7 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=80627&exte
 
 === NET TV ===
 #EXTINF:-1 tvg-id="NET_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="HD",NET
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683093&extension=m3u8&play_token=xdbt7BgLik
+
 
 
 === ANIMAX ===
@@ -145,22 +131,15 @@ http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/165081
 
 === ANTV ===
 #EXTINF:-1 tvg-id="ANTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="HD",ANTV
-http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/165072
+
 
 
 === CNBC INDONESIA ===
 #EXTINF:-1 tvg-id="CNBCINDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
-http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/165062
-
-#EXTINF:-1 tvg-id="CNBCINDONESIA_2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNBCINDONESIA_3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBCINDONESIA_2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CNBCINDONESIA_4" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBCINDONESIA_3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="CNBCINDONESIA_5" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165062
-
