@@ -32,6 +32,21 @@ https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141845&extension=m3u8
 
 
+=== BEIN SPORTS 1 ENGLISH ===
+#EXTINF:-1 tvg-id="BEINSPORTS1ENGLISH1_1" tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/4380_bs1-en.png" group-title="OLAHRAGA",beIN Sports 1 ENGLISH
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/110
+
+
+=== BEIN SPORTS 2 ENGLISH ===
+#EXTINF:-1 tvg-id="BEINSPORTS1ENGLISH2_1" tvg-logo="https://cablevision.com.lb/Content/uploads/Channel/2349_bs2-en.png" group-title="OLAHRAGA",beIN Sports 2 ENGLISH
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/111
+
+
+=== BEIN SPORTS 3 ENGLISH ===
+#EXTINF:-1 tvg-id="BEINSPORTS1ENGLISH3_1" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f215%2fbein-sports-english-1.png" group-title="OLAHRAGA",beIN Sports 3 ENGLISH
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/267769
+
+
 === USEE SPORTS 1 ===
 #EXTINF:0 tvg-id="USEESPORTS1(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Usee_Sports.png/640px-Usee_Sports.png" group-title="OLAHRAGA",Usee SPORTS 1
 https://delivery.ksa.my.id/stream/macan_sport_3/playlist.m3u8?token=ym1wtrp
@@ -63,6 +78,9 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115615&ext
 
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT1(FHD_50FPS)_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/640px-Astro_ASSP1.png" group-title="OLAHRAGA",astro SUPERSPORT
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=115615&extension=m3u8&play_token
+
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT1_5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/640px-Astro_ASSP1.png" group-title="OLAHRAGA",astro SUPERSPORT
+http://sysadminhost.net:8080/stadnik/6a627b52a9/146068
 
 
 === ASTRO SUPERSPORT 2 ===
@@ -317,3 +335,5 @@ http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&e
 #EXTINF:-1 tvg-id="NOWSPORTS7(50FPS)_1" tvg-logo="https://www.nowtv.now.com/media/s-logo/637_e.png" group-title="OLAHRAGA",now SPORTS 7
 
 
+=== SPOTV ===
+#EXTINF:-1 tvg-id="SPOTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="OLAHRAGA",SPOTV
