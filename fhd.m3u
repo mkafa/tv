@@ -34,6 +34,11 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=54244&exte
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 
 
+=== GTV ===
+#EXTINF:-1 tvg-id="GTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="FHD",GTV
+http://tvkuonline.my.id:25461/riyad/riyad/11
+
+
 === MNCTV ===
 #EXTINF:-1 tvg-id="MNCTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
 http://202.150.172.59:80/MNCTV/tracks-v1a1/mono.m3u8
@@ -43,6 +48,9 @@ http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
 http://202.150.172.59:80/MNCTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
 
 
 === SKY NEWS ===
