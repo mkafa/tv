@@ -76,3 +76,13 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 === BBC NEWS ASIA PACIFIC ===
 #EXTINF:0 tvg-id="BBCNEWSASIAPACIFIC_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" group-title="FHD",BBC NEWS
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
+
+
+=== NET TV ===
+#EXTINF:-1 tvg-id="NETTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="FHD",NET TV
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/80292
+
+
+=== DW ENGLISH ===
+#EXTINF:-1 tvg-id="DWENGLISH_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/640px-Deutsche_Welle_symbol_2012.svg.png" group-title="FHD",DW English
+https://ythls.onrender.com/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
