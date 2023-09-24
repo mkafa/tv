@@ -58,3 +58,8 @@ http://202.150.172.59:80/CNN_Indonesia/index.m3u8
 === KOMPAS TV ===
 #EXTINF:-1 tvg-id="KOMPASTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/640px-KOMPAS_TV_%282017%29.svg.png" group-title="FHD",KOMPAS TV
 https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
+
+
+=== AL JAZEERA ENGLISH ===
+#EXTINF:-1 tvg-id="ALJAZEERAENGLISH_1" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/640px-Aljazeera_eng.svg.png" group-title="FHD",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
