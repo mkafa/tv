@@ -143,10 +143,16 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=
 #EXTINF:-1 tvg-id="EUROSPORTS1(FHD_50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/4221.ts
 
+#EXTINF:-1 tvg-id="EUROSPORTS1(FHD)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
+http://91.233.215.250:7272/mlR5cGNUsvBxcv8
+
 
 === EUROSPORTS 2 ===
 #EXTINF:-1 tvg-id="EUROSPORTS2(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 2
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/4222.ts
+
+#EXTINF:-1 tvg-id="EUROSPORTS2(FHD)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 2
+http://91.233.215.250:7272/4TViUcJR91U6Lzr
 
 
 === TNT SPORTS 1 ===
