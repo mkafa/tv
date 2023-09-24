@@ -22,7 +22,7 @@ http://tvkuonline.my.id:25461/riyad/riyad/24
 
 
 === METRO TV ===
-#EXTINF:-1 tvg-id="METROTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="FHD",METRO TV
+#EXTINF:-1 tvg-id="METROTV(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="FHD",METRO TV
 https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
 
@@ -48,9 +48,6 @@ http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
 http://202.150.172.59:80/MNCTV/index.m3u8
-
-#EXTINF:-1 tvg-id="MNCTV_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
 
 
 === SKY NEWS ===
