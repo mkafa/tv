@@ -16,29 +16,11 @@ http://4ksuper.live:80/play/live.php?mac=00:1a:79:50:63:9e&stream=683098&extensi
 
 === GTV ===
 #EXTINF:-1 tvg-id="GTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:-1 tvg-id="GTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_2499968=6.m3u8
-
-#EXTINF:-1 tvg-id="GTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-mp4a_98800=2-avc1_1000000=4.m3u8
 
 
 === iNews ===
 #EXTINF:-1 tvg-id="iNews_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-
-#EXTINF:-1 tvg-id="iNews_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7.m3u8
-
-#EXTINF:-1 tvg-id="iNews_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
-https://kusnadipepenk.github.io/campeign/inews.m3u8
-
-#EXTINF:-1 tvg-id="iNews_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7-mp4a_98800=3.m3u8
-
-#EXTINF:-1 tvg-id="iNews_5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
 https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
 
 
@@ -125,3 +107,18 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=80627&exte
 === NET TV ===
 #EXTINF:-1 tvg-id="NET_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="HD",NET
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683093&extension=m3u8&play_token=xdbt7BgLik
+
+
+=== ANIMAX ===
+#EXTINF:-1 tvg-id="ANIMAX_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/640px-Animaxlogo-20160701.png" group-title="HD",ANIMAX
+http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/165081
+
+
+=== ANTV ===
+#EXTINF:-1 tvg-id="ANTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="HD",ANTV
+http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/165072
+
+
+=== CNBC INDONESIA ===
+#EXTINF:-1 tvg-id="CNBCINDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
+http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/165062
