@@ -30,6 +30,9 @@ http://tvkuonline.my.id:25461/riyad/riyad/24
 #EXTINF:-1 tvg-id="TVONE_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/640px-TvOne_2023.svg.png" group-title="FHD",tv One
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=54244&extension=m3u8
 
+#EXTINF:-1 tvg-id="TVONE_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/640px-TvOne_2023.svg.png" group-title="FHD",tv One
+https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
+
 
 === MNCTV ===
 #EXTINF:-1 tvg-id="MNCTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
