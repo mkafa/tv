@@ -135,8 +135,11 @@ http://sysadminhost.net:8080/stadnik/6a627b52a9/157558
 
 
 === SPORTSTARS ===
-#EXTINF:-1 tvg-id="SPORTSTARS1_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/640px-Sportstars.png" group-title="OLAHRAGA",sportstars 
+#EXTINF:-1 tvg-id="SPORTSTARS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/640px-Sportstars.png" group-title="OLAHRAGA",sportstars 
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157589
+
+#EXTINF:-1 tvg-id="SPORTSTARS_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/640px-Sportstars.png" group-title="OLAHRAGA",sportstars
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 
 === SPORTSTARS 2 ===
@@ -145,6 +148,19 @@ http://kuchini.site:8080/devtv/5af3eeb538/298548
 
 #EXTINF:-1 tvg-id="SPORTSTARS2_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298548
+
+#EXTINF:-1 tvg-id="SPORTSTARS2_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+
+=== SPORTSTARS 3 ===
+#EXTINF:-1 tvg-id="SPORTSTARS3_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="OLAHRAGA",sportstars 3
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+
+=== SOCCER CHANNEL ===
+#EXTINF:-1 tvg-id="SOCCERCHANNEL_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SoccerChannel2020.png/640px-SoccerChannel2020.png" group-title="OLAHRAGA",SOCCER CHANNEL
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 
 === TSN 1 ===
@@ -355,3 +371,9 @@ http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&e
 
 === SPOTV ===
 #EXTINF:-1 tvg-id="SPOTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="OLAHRAGA",SPOTV
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+=== SPOTV 2 ===
+#EXTINF:-1 tvg-id="SPOTV2_1" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="OLAHRAGA",SPOTV 2
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
