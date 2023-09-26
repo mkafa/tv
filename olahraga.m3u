@@ -230,8 +230,8 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 
 
 === NBA TV ===
-#EXTINF:-1 tvg-id="NBATV(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
-
+#EXTINF:-1 tvg-id="NBATV(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12722
 
 
 === OPTUS SPORT 1 ===
@@ -384,3 +384,33 @@ http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&e
 === SPOTV 2 ===
 #EXTINF:-1 tvg-id="SPOTV2_1" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="OLAHRAGA",SPOTV 2
 
+
+
+=== FOX SPORTS 1 ===
+#EXTINF:-1 tvg-id="FOXSPORTS1(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" group-title="OLAHRAGA",Fox Sports 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
+
+
+=== FOX SPORTS 2 ===
+#EXTINF:-1 tvg-id="FOXSPORTS2(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" group-title="OLAHRAGA",Fox Sports 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15906
+
+
+=== ESPN ===
+#EXTINF:-1 tvg-id="ESPN(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="OLAHRAGA",ESPN
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15976
+
+
+=== ESPN 2 ===
+#EXTINF:-1 tvg-id="ESPN2(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="OLAHRAGA",ESPN 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15974
+
+
+=== ESPN U ===
+#EXTINF:-1 tvg-id="ESPNU(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/640px-ESPN_U_logo.svg.png" group-title="OLAHRAGA",ESPN U
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15972
+
+
+=== ESPN NEWS ===
+#EXTINF:-1 tvg-id="ESPNNEWS(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/640px-ESPNews.svg.png" group-title="OLAHRAGA",ESPN NEWS
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15975
