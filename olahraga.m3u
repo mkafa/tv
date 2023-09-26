@@ -197,15 +197,33 @@ http://91.233.215.250:7272/4TViUcJR91U6Lzr
 #EXTINF:-1 tvg-id="TNTSPORTS1_1" tvg-logo="https://media.info/i/lf/300/1690027797/1539.png" group-title="OLAHRAGA",TNT SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79486&extension=m3u8
 
+#EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_2" tvg-logo="https://media.info/i/lf/300/1690027797/1539.png" group-title="OLAHRAGA",TNT SPORTS 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20821
+
+#EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_3" tvg-logo="https://media.info/i/lf/300/1690027797/1539.png" group-title="OLAHRAGA",TNT SPORTS 1
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
+
 
 === TNT SPORTS 2 ===
 #EXTINF:-1 tvg-id="TNTSPORTS2_1" tvg-logo="https://media.info/i/lf/300/1690027877/1540.png" group-title="OLAHRAGA",TNT SPORTS 2
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79485&extension=m3u8
 
+#EXTINF:-1 tvg-id="TNTSPORTS2(FHD_50FPS)_2" tvg-logo="https://media.info/i/lf/300/1690027877/1540.png" group-title="OLAHRAGA",TNT SPORTS 2
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20820
+
+#EXTINF:-1 tvg-id="TNTSPORTS2(FHD_50FPS)_3" tvg-logo="https://media.info/i/lf/300/1690027877/1540.png" group-title="OLAHRAGA",TNT SPORTS 2
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
+
 
 === TNT SPORTS 3 ===
 #EXTINF:-1 tvg-id="TNTSPORTS3_1" tvg-logo="https://media.info/i/lf/300/1690027954/5712.png" group-title="OLAHRAGA",TNT SPORTS 3
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79484&extension=m3u8
+
+#EXTINF:-1 tvg-id="TNTSPORTS3(FHD_50FPS)_2" tvg-logo="https://media.info/i/lf/300/1690027954/5712.png" group-title="OLAHRAGA",TNT SPORTS 3
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20819
+
+#EXTINF:-1 tvg-id="TNTSPORTS3(FHD)_3" tvg-logo="https://media.info/i/lf/300/1690027954/5712.png" group-title="OLAHRAGA",TNT SPORTS 3
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 
 
 === NBA TV ===
