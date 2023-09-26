@@ -86,6 +86,10 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=115615&extension
 http://sysadminhost.net:8080/stadnik/6a627b52a9/146068
 
 
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT1(FHD_50FPS)_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/640px-Astro_ASSP1.png" group-title="OLAHRAGA",astro SUPERSPORT
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=115615&extension=m3u8
+
+
 === ASTRO SUPERSPORT 2 ===
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT2_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Astro_ASSP2.png/640px-Astro_ASSP2.png" group-title="OLAHRAGA",astro SUPERSPORT 2
@@ -124,41 +128,32 @@ http://sysadminhost.net:8080/stadnik/6a627b52a9/157558
 
 === SPORTSTARS ===
 #EXTINF:-1 tvg-id="SPORTSTARS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/640px-Sportstars.png" group-title="OLAHRAGA",sportstars 
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157589
 
-#EXTINF:-1 tvg-id="SPORTSTARS_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/640px-Sportstars.png" group-title="OLAHRAGA",sportstars
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 
 === SPORTSTARS 2 ===
-#EXTINF:0 tvg-id="SPORTSTARS2_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
-http://kuchini.site:8080/devtv/5af3eeb538/298548
-
-#EXTINF:-1 tvg-id="SPORTSTARS2_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
+#EXTINF:-1 tvg-id="SPORTSTARS2_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298548
-
-#EXTINF:-1 tvg-id="SPORTSTARS2_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 
 === SPORTSTARS 3 ===
 #EXTINF:-1 tvg-id="SPORTSTARS3_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="OLAHRAGA",sportstars 3
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
 
 
 === SOCCER CHANNEL ===
 #EXTINF:-1 tvg-id="SOCCERCHANNEL_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SoccerChannel2020.png/640px-SoccerChannel2020.png" group-title="OLAHRAGA",SOCCER CHANNEL
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
 
 
 === TSN 1 ===
 #EXTINF:-1 tvg-id="TSN1(60FPS)_1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="OLAHRAGA",TSN 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
+
 
 
 === TSN 5 ===
 #EXTINF:-1 tvg-id="TSN5(60FPS)_1" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png" group-title="OLAHRAGA",TSN 5
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
+
 
 
 === SKY SPORT ARENA ===
@@ -170,6 +165,9 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11656&extension=
 #EXTINF:-1 tvg-id="SKYSPORTFOOTBALL_1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=m3u8&play_token
 
+#EXTINF:-1 tvg-id="SKYSPORTFOOTBALL_2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=m3u8&play_token691533
+
 
 === SKY SPORT PRIMIER LEAGUE ===
 #EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_1" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
@@ -180,7 +178,7 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:6f:5a:5d&stream=83447&extens
 
 
 === EUROSPORTS 1 ===
-#EXTINF:-1 tvg-id="EUROSPORTS1(FHD_50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
+#EXTINF:-1 tvg-id="EUROSPORTS1(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/4221.ts
 
 #EXTINF:-1 tvg-id="EUROSPORTS1(FHD)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
@@ -212,7 +210,7 @@ http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79484&extension=m
 
 === NBA TV ===
 #EXTINF:-1 tvg-id="NBATV(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
-http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115738&extension=m3u8
+
 
 
 === OPTUS SPORT 1 ===
@@ -359,9 +357,9 @@ http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&e
 
 === SPOTV ===
 #EXTINF:-1 tvg-id="SPOTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="OLAHRAGA",SPOTV
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
 
 
 === SPOTV 2 ===
 #EXTINF:-1 tvg-id="SPOTV2_1" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="OLAHRAGA",SPOTV 2
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
