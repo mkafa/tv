@@ -135,6 +135,9 @@ http://sysadminhost.net:8080/stadnik/6a627b52a9/157558
 #EXTINF:-1 tvg-id="SPORTSTARS2_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298548
 
+#EXTINF:-1 tvg-id="SPORTSTARS2_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
+
 
 === SPORTSTARS 3 ===
 #EXTINF:-1 tvg-id="SPORTSTARS3_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="OLAHRAGA",sportstars 3
