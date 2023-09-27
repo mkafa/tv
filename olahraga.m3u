@@ -448,3 +448,31 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
 === SUPERSPORT FOOTBALL ===
 #EXTINF:-1 tvg-id="SUPERSPORTFOOTBALL_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="OLAHRAGA",SuperSport Football
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186981
+
+
+=== FUBO SPORTS ===
+#EXTINF:-1 tvg-id="FUBOSPORTS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fubo_2023_Logo.png/640px-Fubo_2023_Logo.png" group-title="OLAHRAGA",fubo SPORTS
+http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=738902&extension=ts
+
+
+=== TRUE PREMIER FOOTBALL 1 ===
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true1.png",TRUE PREMIER FOOTBALL 1
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true2.png",TRUE PREMIER FOOTBALL 2
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true3.png",TRUE PREMIER FOOTBALL 3
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true4.png",TRUE PREMIER FOOTBALL 4
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true5.png",TRUE PREMIER FOOTBALL 5
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
