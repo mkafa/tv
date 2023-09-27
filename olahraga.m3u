@@ -2,8 +2,11 @@
 
 
 === BEIN SPORTS ===
-#EXTINF:-1 tvg-id="BEINSPORTS(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/640px-BeIN_Sports_logo_%282017%29.png" group-title="OLAHRAGA",beIN Sports
+#EXTINF:-1 tvg-id="BEINSPORTS(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/640px-BeIN_Sports_logo_%282017%29.png" group-title="OLAHRAGA",beIN Sports
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141846&extension=m3u8
+
+#EXTINF:-1 tvg-id="BEINSPORTS(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/640px-BeIN_Sports_logo_%282017%29.png" group-title="OLAHRAGA",beIN Sports
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1143059
 
 
 === BEIN SPORTS 1 INDONESIA ===
@@ -15,7 +18,7 @@ https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
 
 
 === BEIN SPORTS 2 INDONESIA ===
-#EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2 INDONESIA
+#EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2 INDONESIA
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141856&extension=m3u8
 
 
@@ -28,7 +31,7 @@ https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 
 
 === BEIN SPORTS 3 ===
-#EXTINF:-1 tvg-id="BEINSPORTS3(50 FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
+#EXTINF:-1 tvg-id="BEINSPORTS3(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141845&extension=m3u8
 
 
@@ -149,22 +152,22 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
 
 
 
-=== TSN 1 ===
-#EXTINF:-1 tvg-id="TSN1(60FPS)_1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="OLAHRAGA",TSN 1
+=== TSN 3 ===
+#EXTINF:-1 tvg-id="TSN3(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/640px-TSN3.svg.png" group-title="OLAHRAGA",TSN 3
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21004.m3u8
 
 
-
-=== TSN 5 ===
-#EXTINF:-1 tvg-id="TSN5(60FPS)_1" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png" group-title="OLAHRAGA",TSN 5
-
-
-
-=== SKY SPORT ARENA ===
+=== SKY SPORTS ARENA ===
 #EXTINF:-1 tvg-id="SKYSPORTARENA_1" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sport arena
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11656&extension=m3u8&play_token
 
 
-=== SKY SPORT FOOTBALL ===
+=== SKY SPORTS F1 ===
+#EXTINF:-1 tvg-id="SKYSPORTSF1_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/640px-Sky_Sports_F1_logo_2020.svg.png" group-title="OLAHRAGA",sky sport f1
+
+
+
+=== SKY SPORTS FOOTBALL ===
 #EXTINF:-1 tvg-id="SKYSPORTFOOTBALL_1" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=m3u8&play_token
 
@@ -172,12 +175,12 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=m3u8&play_token691533
 
 
-=== SKY SPORT PRIMIER LEAGUE ===
+=== SKY SPORTS PREMIER LEAGUE ===
 #EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_1" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extension=m3u8
-
-#EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_2" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:6f:5a:5d&stream=83447&extension=m3u8&play_token=xdbt7BgLik83447
+
+#EXTINF:0 tvg-id="SKYSPORTPRIMIERLEAGUE_2" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
 
 === EUROSPORTS 1 ===
@@ -427,3 +430,21 @@ https://kusnadipepenk.github.io/ntn/ele1.m3u8
 === ELEVEN 2 ===
 #EXTINF:-1 tvg-id="ELEVEN2_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/640px-Logo_Eleven_Sports_2020.png" group-title="OLAHRAGA",ELEVEN 2
 https://kusnadipepenk.github.io/ntn/ele2.m3u8
+
+
+=== SUPERSPORT PREMIER LEAGUE ===
+#EXTINF:-1 tvg-id="SUPERSPORTPREMIERLEAGUE_1" tvg-logo="https://www.livematch.ge/img/SuperSport-epl.png" group-title="OLAHRAGA",SuperSport Premier League
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
+
+#EXTINF:0 tvg-id="SUPERSPORTPREMIERLEAGUE_2" tvg-logo="https://www.livematch.ge/img/SuperSport-epl.png" group-title="OLAHRAGA",SuperSport Premier League
+https://kusnadipepenk.github.io/ntn/superprem.m3u8
+
+
+=== SUPERSPORT LALIGA ===
+#EXTINF:-1 tvg-id="SUPERSPORTLALIGA_1" tvg-logo="https://livematch.ge/img/supersport-laliga.png" group-title="OLAHRAGA",SuperSport LaLiga
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
+
+
+=== SUPERSPORT FOOTBALL ===
+#EXTINF:-1 tvg-id="SUPERSPORTFOOTBALL_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="OLAHRAGA",SuperSport Football
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186981
