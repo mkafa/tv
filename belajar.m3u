@@ -1,4 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true1.png",TRUE PREMIER FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
