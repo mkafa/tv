@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, 
+                 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, 
+                 https://www.bevy.be/bevyfiles/indonesia.xml, 
+                 https://www.bevy.be/bevyfiles/indonesiapremium1.xml, 
+                 https://www.bevy.be/bevyfiles/indonesiapremium3.xml, 
+                 https://www.bevy.be/bevyfiles/indonesiapremium4.xml" refresh="3600"
+
+
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-url-tvg="https://opop.pro/5kh7VSQXHnLb"
+#EXTM3U url-tvg="https://opop.pro/5kh7VSQXHnLb"
+#EXTM3U x-url-tvg="https://github.com/thefirefox12537/streams/blob/master/epg/local/guide.xml"
+#EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml" m3uautoload=1 cache=500 deinterlace=1
