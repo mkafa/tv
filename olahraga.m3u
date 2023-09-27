@@ -456,10 +456,13 @@ http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=738902&extension=ts
 
 
 === TRUE PREMIER FOOTBALL 1 ===
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true1.png",TRUE PREMIER FOOTBALL 1
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL1_1" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 1
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true2.png",TRUE PREMIER FOOTBALL 2
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
