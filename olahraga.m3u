@@ -233,6 +233,9 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 #EXTINF:-1 tvg-id="NBATV(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12722
 
+#EXTINF:-1 tvg-id="NBATV(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=282052&extension=m3u8
+
 
 === OPTUS SPORT 1 ===
 #EXTINF:-1 tvg-id="OPTUS1(50FPS)_1" tvg-logo="https://i.imgur.com/OFcWnFz.png" group-title="OLAHRAGA",OPTUS 1
