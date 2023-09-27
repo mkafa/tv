@@ -25,15 +25,24 @@ http://tvkuonline.my.id:25461/riyad/riyad/24
 #EXTINF:-1 tvg-id="TRANS7_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="FHD",TRANS 7
 http://tvkuonline.my.id:25461/riyad/riyad/15
 
+#EXTINF:-1 tvg-id="TRANS7_2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png" group-title="FHD",TRANS 7
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT9r9bu3RWomlBj9fuWmyu0s/m3u8
+
 
 === TRANS TV ===
 #EXTINF:-1 tvg-id="TRANSTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="FHD",TRANS TV
 http://tvkuonline.my.id:25461/riyad/riyad/13
 
+#EXTINF:-1 tvg-id="TRANSTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png" group-title="FHD",TRANS TV
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT3R_5knYtxoChpz-_ZSMCP0/m3u8
+
 
 === METRO TV ===
 #EXTINF:-1 tvg-id="METROTV(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="FHD",METRO TV
 http://tvkuonline.my.id:25461/riyad/riyad/12
+
+#EXTINF:-1 tvg-id="METROTV(60FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="FHD",METRO TV
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT31_kHTEUfAHyYBe-ME__44/m3u8
 
 
 === TV ONE ===
@@ -48,10 +57,16 @@ https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
 #EXTINF:-1 tvg-id="RCTI_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png" group-title="FHD",RCTI
 http://tvkuonline.my.id:25461/riyad/riyad/08
 
+#EXTINF:-1 tvg-id="RCTI_2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png" group-title="FHD",RCTI
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzcYoCAReY46ChruYbYJGME/m3u8
+
 
 === GTV ===
 #EXTINF:-1 tvg-id="GTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="FHD",GTV
 http://tvkuonline.my.id:25461/riyad/riyad/11
+
+#EXTINF:-1 tvg-id="GTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="FHD",GTV
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTyLrfzhM7Qovx3NdIBZEQ7A/m3u8
 
 
 === MNCTV ===
@@ -68,12 +83,18 @@ http://202.150.172.59:80/MNCTV/index.m3u8
 http://tvkuonline.my.id:25461/riyad/riyad/09
 
 #EXTINF:-1 tvg-id="MNCTV_5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT1Ra45pRqKaasbdi9cT5A1w/m3u8
+
+#EXTINF:-1 tvg-id="MNCTV_6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="FHD",MNCTV
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
 
 
 === INEWS ===
 #EXTINF:-1 tvg-id="INEWS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="FHD",iNews
 http://tvkuonline.my.id:25461/riyad/riyad/22
+
+#EXTINF:-1 tvg-id="INEWS_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="FHD",iNews
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT44Tg6k1h3hFg9vx0BhMX_g/m3u8
 
 
 === SKY NEWS ===
@@ -92,6 +113,9 @@ https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 
 #EXTINF:-1 tvg-id="KOMPASTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/640px-KOMPAS_TV_%282017%29.svg.png" group-title="FHD",KOMPAS TV
 http://tvkuonline.my.id:25461/riyad/riyad/19
+
+#EXTINF:-1 tvg-id="KOMPASTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/640px-KOMPAS_TV_%282017%29.svg.png" group-title="FHD",KOMPAS TV
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT6nKg3RzSuvvmhpUPFOPdAo/m3u8
 
 
 === AL JAZEERA ENGLISH ===
@@ -113,6 +137,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/80292
 
 #EXTINF:-1 tvg-id="NETTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="FHD",NET TV
 http://tvkuonline.my.id:25461/riyad/riyad/18
+
+#EXTINF:-1 tvg-id="NETTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="FHD",NET TV
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTx3RKadhzS59FBZb72YkCCY/m3u8
 
 
 === DW ENGLISH ===
