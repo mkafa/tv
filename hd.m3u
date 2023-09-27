@@ -3,7 +3,7 @@
 
 === RCTI ===
 #EXTINF:-1 tvg-id="RCTI_1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png" group-title="HD",RCTI
-
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT2aGwulgiOxQmB543P81d4U/m3u8
 
 
 === MNCTV ===
@@ -13,10 +13,16 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880793
 #EXTINF:-1 tvg-id="MNCTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="HD",MNCTV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
+#EXTINF:-1 tvg-id="MNCTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png" group-title="HD",MNCTV
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTxfxKoPKVmOjR1Rr_dXW-Ss/m3u8
+
 
 === GTV ===
 #EXTINF:-1 tvg-id="GTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-id="GTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png" group-title="HD",GTV
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTwEIhONp6p386VXygoFKp0I/m3u8
 
 
 === iNews ===
@@ -25,6 +31,9 @@ https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=19
 
 #EXTINF:-1 tvg-id="iNews_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+
+#EXTINF:-1 tvg-id="iNews_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="HD",iNews
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzc9jRcDCn8uhD6O4bM4NJE/m3u8
 
 
 === TRANSTV ===
