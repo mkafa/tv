@@ -1,18 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://thumbnail.png",K+ Sport 1 
-#KODIPROP:inputstream.adaptive.license_type-clearkey 
-#KODIPROP:inputstream.adaptive.license key-5d67ce7ac87a934bee842e58c294e221:0e93cc2313d9b969fe3633c810388a84 
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sportihd/default/index.mpd
+#EXTINF:-1 xui-id="31898" tvg-id="" tvg-name="GTV HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="LOKAL",GTV HD
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTwEIhONp6p386VXygoFKp0I/m3u8
 
-
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://thumbnail.png",K+ Sport 2 
-#KODIPROP:inputstream.adaptive.license_type-clearkey 
-#KODIPROP:inputstream.adaptive.license key-5d67ce7ac87a934bee842e58c294e221:0e93cc2313d9b969fe3633c810388a84 
-https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601 
-http://1.yurend.xyz/dash-wv/linear/1601/default_primary.mpd
+#EXTINF:-1 xui-id="31899" tvg-id="" tvg-name="INEWS HD" tvg-logo="http://ogietv.biz.id:80/images/QCqX5p5x3Y181Q8jwb82JPp7t1P7st7QlD4Bjbar_byDORz-DkG9Cw7WGc7U9ixl.png" group-title="LOKAL",INEWS HD
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzc9jRcDCn8uhD6O4bM4NJE/m3u8
