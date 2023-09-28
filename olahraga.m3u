@@ -10,29 +10,39 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1143059
 
 
 === BEIN SPORTS 1 INDONESIA ===
-#EXTINF:-1 tvg-id="BEINSPORTS1INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1 INDONESIA
+#EXTINF:-1 tvg-id="BEINSPORTS1INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
 https://nonton.site:8443/ekos/7483/728
 
-#EXTINF:-1 tvg-id="BEINSPORTS1INDONESIA(50FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1 INDONESIA
+#EXTINF:-1 tvg-id="BEINSPORTS1INDONESIA(50FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
 https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
+
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTINF:-1 tvg-id="BEINSPORTSTHAILAND_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
 
 === BEIN SPORTS 2 INDONESIA ===
-#EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2 INDONESIA
+#EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141856&extension=m3u8
 
 
 === BEIN SPORTS 3 INDONESIA ===
-#EXTINF:-1 tvg-id="BEINSPORTS3INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3 INDONESIA
+#EXTINF:-1 tvg-id="BEINSPORTS3INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
 https://nonton.site:8443/ekos/7483/729
 
-#EXTINF:-1 tvg-id="BEINSPORTS3INDONESIA(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3 INDONESIA
+#EXTINF:-1 tvg-id="BEINSPORTS3INDONESIA(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
 https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 
 
 === BEIN SPORTS 3 ===
 #EXTINF:-1 tvg-id="BEINSPORTS3(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=141845&extension=m3u8
+
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTINF:-1 tvg-id="BEINSPORTS3THAILAND_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
+https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 
 === BEIN SPORTS 1 ENGLISH ===
@@ -383,13 +393,17 @@ http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&e
 
 
 === SPOTV ===
-#EXTINF:-1 tvg-id="SPOTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="OLAHRAGA",SPOTV
-
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTINF:-1 tvg-id="SPOTV(THAI)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="OLAHRAGA",SPOTV
+https://smart-tv.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 
 
 === SPOTV 2 ===
-#EXTINF:-1 tvg-id="SPOTV2_1" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="OLAHRAGA",SPOTV 2
-
+#EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#EXTINF:-1 tvg-id="SPOTV2(THAI)_1" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="OLAHRAGA",SPOTV 2
+https://smart-tv.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
 
 === FOX SPORTS 1 ===
