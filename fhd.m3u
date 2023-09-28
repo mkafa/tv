@@ -151,3 +151,8 @@ http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTx3RKadhzS59FBZb72YkCCY/m3u8
 === DW ENGLISH ===
 #EXTINF:-1 tvg-id="DWENGLISH(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/640px-Deutsche_Welle_symbol_2012.svg.png" group-title="FHD",DW English
 https://ythls.onrender.com/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
+
+
+=== TV KESEHATAN ===
+#EXTINF:-1 tvg-id="TVKESEHATAN_1" tvg-logo="https://sehatnegeriku.kemkes.go.id/wp-content/uploads/2021/05/TV-KESEHATAN.png" group-title="FHD",TV KESEHATAN
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
