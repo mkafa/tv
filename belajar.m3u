@@ -1,9 +1,88 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.qreatifku.my.id/images/true1.png",TRUE PREMIER FOOTBALL 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="1",MNCSports3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+http://202.147.204.114/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 group-title="SPORTS",bein sports
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="2",RCTI  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+#http://202.147.204.114/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+#EXTINF:-1 http-user-agent=Chrome(Android)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/NignGTG23miyqh4zdppOI-1lknc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2927559/3e8d1e.jpg" group-title="⚽ LIGA EROPA",20.00 | Bournemouth vs Chelsea
+https://webudit.webdicdn.lol/lb/premium14/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium110/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
+https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
+
+
+#EXTINF:-1 http-user-agent=Chrome(Android)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/92DBBWzi1Tc73MbXdcQW7AduNQ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2927561/6a34bc.jpg" group-title="⚽ LIGA EROPA",22.30 | Everton vs Arsenal
+https://webudit.webdicdn.lol/lb/premium14/index.m3u8
+https://webudit.webdicdn.lol/lb/premium130/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8
+
+
+
+#EXTINF:-1 http-user-agent=Chrome(Android)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/Q0rbBAfvDlS6eouND0n6kicq08s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2928441/8713fc.jpg" group-title="⚽ LIGA EROPA",21.00 | Fulham vs Luton Town
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 http-user-agent=Chrome(Android)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/JLSo95jl7KKw4WrDEYgJFJ2yHcA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2928327/e5281b.jpg" group-title="⚽ LIGA EROPA",21.00 | Manchester United vs Brighton
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
+
+
+
+#EXTINF:-1 http-user-agent=Chrome(Android)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/udAA4iGG5mq7o98P4LZVA3w8nSA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2928329/c40efb.jpg" group-title="⚽ LIGA EROPA",21.00 | Tottenham Hotspur vs Sheffield United
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#https://sport.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 http-user-agent=Chrome(Android)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/xha7jdZpHs73uUG3vrYVY0xqjyM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2924680/aa3220.jpg" group-title="⚽ LIGA EROPA",21.00 | West Ham United vs Manchester City
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
+
+
+
+#EXTINF:-1 http-user-agent=Chrome(Android)
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/PMbPbO9LjPoBgQ4jMO52paLDAow=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2924666/2fdeb7.jpg" group-title="⚽ LIGA EROPA",23.30 | Newcastle United vs Brentford
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+#https://webudit.webdicdn.lol/lb/premium/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
