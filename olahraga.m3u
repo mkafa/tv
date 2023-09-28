@@ -161,8 +161,13 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
 
 
 === SKY SPORTS ARENA ===
-#EXTINF:-1 tvg-id="SKYSPORTARENA_1" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sport arena
+#EXTINF:-1 tvg-id="SKYSPORTARENA_1" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sports arena
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11656&extension=m3u8&play_token
+
+
+=== SKY SPORTS NEWS ===
+#EXTINF:-1 tvg-id="SKYSPORTSNEWS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/640px-Sky_sports_news_2021_logo.svg.png" group-title="OLAHRAGA",sky sports news
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11618
 
 
 === SKY SPORTS F1 ===
@@ -176,6 +181,9 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=
 
 #EXTINF:-1 tvg-id="SKYSPORTFOOTBALL_2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=m3u8&play_token691533
+
+#EXTINF:-1 tvg-id="SKYSPORTFOOTBALL_3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/11616
 
 
 === SKY SPORTS PREMIER LEAGUE ===
