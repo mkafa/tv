@@ -244,3 +244,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b3
 
 #EXTINF:-1 tvg-id="CNBCINDONESIA_7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/640px-CNBC_Indonesia.png" group-title="HD",CNBC INDONESIA
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/165062
+
+
+=== NHK WORLD ===
+#EXTINF:-1 tvg-id="NHKWORLD_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="HD",NHK WORLD
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298560
