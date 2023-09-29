@@ -175,15 +175,29 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11656&extension=
 #EXTINF:-1 tvg-id="SKYSPORTARENA_2" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sports arena
 http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4904
 
+#EXTINF:-1 tvg-id="SKYSPORTARENA(FHD)_3" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sports arena
+https://webudit.webdicdn.lol/lb/premium36/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+
 
 === SKY SPORTS NEWS ===
 #EXTINF:-1 tvg-id="SKYSPORTSNEWS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/640px-Sky_sports_news_2021_logo.svg.png" group-title="OLAHRAGA",sky sports news
 http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4909
 
+#EXTINF:-1 tvg-id="SKYSPORTSNEWS_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/640px-Sky_sports_news_2021_logo.svg.png" group-title="OLAHRAGA",sky sports news
+https://webudit.webdicdn.lol/lb/premium366/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+
 
 === SKY SPORTS MAIN EVENT ===
 #EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT_1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="OLAHRAGA",sky sports main event
 http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4906
+
+#EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT(FHD)_2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="OLAHRAGA",sky sports main event
+https://webudit.webdicdn.lol/lb/premium38/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+
+
+=== SKY SPORTS MIX ===
+#EXTINF:-1 tvg-id="SKYSPORTSMIX(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/640px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="OLAHRAGA",sky sports mix
+https://webudit.webdicdn.lol/lb/premium449/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0 https://webudit.webdicdn.lol/lb/premium449/mono.m3u8
 
 
 === SKY SPORTS F1 ===
@@ -192,6 +206,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extensi
 
 #EXTINF:-1 tvg-id="SKYSPORTSF1_2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/640px-Sky_Sports_F1_logo_2020.svg.png" group-title="OLAHRAGA",sky sport f1
 http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4902
+
+#EXTINF:-1 tvg-id="SKYSPORTSF1(FHD)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/640px-Sky_Sports_F1_logo_2020.svg.png" group-title="OLAHRAGA",sky sport f1
+https://webudit.webdicdn.lol/lb/premium60/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
 
 
 === SKY SPORTS FOOTBALL ===
@@ -204,16 +221,22 @@ http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11659&extension=
 #EXTINF:-1 tvg-id="SKYSPORTFOOTBALL_3" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
 http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4907
 
+#EXTINF:-1 tvg-id="SKYSPORTFOOTBALL_4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
+https://webudit.webdicdn.lol/lb/premium35/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+
 
 === SKY SPORTS PREMIER LEAGUE ===
-#EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_1" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
+#EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_1" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Premier League
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:6f:5a:5d&stream=83447&extension=m3u8&play_token=xdbt7BgLik83447
 
-#EXTINF:0 tvg-id="SKYSPORTPRIMIERLEAGUE_2" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
+#EXTINF:0 tvg-id="SKYSPORTPRIMIERLEAGUE_2" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Premier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
-#EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_3" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
+#EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_3" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Premier League
 http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4905
+
+#EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE(FHD)_4" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Premier League
+https://webudit.webdicdn.lol/lb/premium130/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
 
 
 === EUROSPORTS ===
@@ -301,6 +324,26 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1004551&exten
 
 #EXTINF:-1 tvg-id="TNTSPORTS6_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports6_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 6
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/47961
+
+
+=== TNT SPORTS 7 ===
+#EXTINF:-1 tvg-id="TNTSPORTS7_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="OLAHRAGA",TNT SPORTS 7
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/279255
+
+
+=== TNT SPORTS 8 ===
+#EXTINF:-1 tvg-id="TNTSPORTS8_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="OLAHRAGA",TNT SPORTS 8
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/7435
+
+
+=== TNT SPORTS 9 ===
+#EXTINF:-1 tvg-id="TNTSPORTS9_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="OLAHRAGA",TNT SPORTS 9
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/7438
+
+
+=== TNT SPORTS 10 ===
+#EXTINF:-1 tvg-id="TNTSPORTS10_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="OLAHRAGA",TNT SPORTS 10
+
 
 
 === NBA TV ===
