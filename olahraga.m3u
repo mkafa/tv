@@ -447,12 +447,18 @@ http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&e
 #EXTINF:-1 tvg-id="SPOTV(THAI)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="OLAHRAGA",SPOTV
 https://smart-tv.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="SPOTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/640px-SPOTV_logo.svg.png" group-title="OLAHRAGA",SPOTV
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298570
+
 
 === SPOTV 2 ===
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-id="SPOTV2(THAI)_1" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="OLAHRAGA",SPOTV 2
 https://smart-tv.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV2_2" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="OLAHRAGA",SPOTV 2
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298571
 
 
 === FOX SPORTS 1 ===
