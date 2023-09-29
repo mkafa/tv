@@ -139,7 +139,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918983&extens
 
 === SPORTSTARS ===
 #EXTINF:-1 tvg-id="SPORTSTARS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sportstars.png/640px-Sportstars.png" group-title="OLAHRAGA",sportstars 
-
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157589
 
 
 === SPORTSTARS 2 ===
@@ -148,6 +148,9 @@ http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298548
 
 #EXTINF:-1 tvg-id="SPORTSTARS2_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
+
+#EXTINF:-1 tvg-id="SPORTSTARS2_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sportstars_2.png/640px-Sportstars_2.png" group-title="OLAHRAGA",sportstars 2
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298548
 
 
 === SPORTSTARS 3 ===
