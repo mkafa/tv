@@ -164,15 +164,26 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
 #EXTINF:-1 tvg-id="SKYSPORTARENA_1" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sports arena
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=11656&extension=m3u8&play_token
 
+#EXTINF:-1 tvg-id="SKYSPORTARENA_2" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sports arena
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4904
+
 
 === SKY SPORTS NEWS ===
 #EXTINF:-1 tvg-id="SKYSPORTSNEWS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/640px-Sky_sports_news_2021_logo.svg.png" group-title="OLAHRAGA",sky sports news
 http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4909
 
 
+=== SKY SPORTS MAIN EVENT ===
+#EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT_1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="OLAHRAGA",sky sports main event
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4906
+
+
 === SKY SPORTS F1 ===
 #EXTINF:-1 tvg-id="SKYSPORTSF1_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/640px-Sky_Sports_F1_logo_2020.svg.png" group-title="OLAHRAGA",sky sport f1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
+
+#EXTINF:-1 tvg-id="SKYSPORTSF1_2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/640px-Sky_Sports_F1_logo_2020.svg.png" group-title="OLAHRAGA",sky sport f1
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4902
 
 
 === SKY SPORTS FOOTBALL ===
@@ -192,6 +203,14 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:6f:5a:5d&stream=83447&extens
 
 #EXTINF:0 tvg-id="SKYSPORTPRIMIERLEAGUE_2" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+
+#EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_3" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Primier League
+http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4905
+
+
+=== EUROSPORTS ===
+#EXTINF:-1 tvg-id="EUROSPORTS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508123&extension=ts&play_token=xsQxddiIez
 
 
 === EUROSPORTS 1 ===
@@ -469,15 +488,37 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
 #EXTINF:0 tvg-id="SUPERSPORTPREMIERLEAGUE_2" tvg-logo="https://www.livematch.ge/img/SuperSport-epl.png" group-title="OLAHRAGA",SuperSport Premier League
 https://kusnadipepenk.github.io/ntn/superprem.m3u8
 
+#EXTINF:-1 tvg-id="SUPERSPORTPREMIERLEAGUE_3" tvg-logo="https://www.livematch.ge/img/SuperSport-epl.png" group-title="OLAHRAGA",SuperSport Premier League
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
+
 
 === SUPERSPORT LALIGA ===
 #EXTINF:-1 tvg-id="SUPERSPORTLALIGA_1" tvg-logo="https://livematch.ge/img/supersport-laliga.png" group-title="OLAHRAGA",SuperSport LaLiga
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
 
+#EXTINF:-1 tvg-id="SUPERSPORTLALIGA_2" tvg-logo="https://livematch.ge/img/supersport-laliga.png" group-title="OLAHRAGA",SuperSport LaLiga
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239076&extension=ts&play_token=WDliZuSmkz
+
 
 === SUPERSPORT FOOTBALL ===
 #EXTINF:-1 tvg-id="SUPERSPORTFOOTBALL_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="OLAHRAGA",SuperSport Football
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186981
+
+#EXTINF:-1 tvg-id="SUPERSPORTFOOTBALL_2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="OLAHRAGA",SuperSport Football
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239083&extension=ts&play_token=tJv2b2KNwD
+
+
+=== SUPERSPORT PSL ===
+#EXTINF:-1 tvg-id="SUPERSPORTPSL_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/s6b35j1629404341.png" group-title="OLAHRAGA",SuperSport psl
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239077&extension=ts&play_token=wAy6FmsPtA
+
+
+=== SUPERSPORT MOTORSPORT ===
+#EXTINF:-1 tvg-id="SUPERSPORTMOTORSPORT_1" tvg-logo="https://ia801807.us.archive.org/30/items/racinguk-01_202011/supersport-motorsport.png" group-title="OLAHRAGA",SuperSport motorsport
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186989
+
+#EXTINF:-1 tvg-id="SUPERSPORTMOTORSPORT_2" tvg-logo="https://ia801807.us.archive.org/30/items/racinguk-01_202011/supersport-motorsport.png" group-title="OLAHRAGA",SuperSport motorsport
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
 
 
 === FUBO SPORTS ===
