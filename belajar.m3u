@@ -1,6 +1,4 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTINF:-1,RCTI
-http://202.147.204.114/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/HWwJHdff/Global-TV-Indonesia.png"group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",GTV 
+https://nonton.site:8443/live/ekos/7483/49285.m3u8
