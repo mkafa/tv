@@ -292,6 +292,9 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=282052&extens
 #EXTINF:-1 tvg-id="NBATV(FHD)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
 http://37.49.230.161:8080/1eae94e3/GpDddDC8ddMxhY2n/2051
 
+#EXTINF:-1 tvg-id="NBATV(FHD)_4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174795&extension=ts&play_token=Kux57Ra1IK
+
 
 === OPTUS SPORT 1 ===
 #EXTINF:-1 tvg-id="OPTUS1(50FPS)_1" tvg-logo="https://i.imgur.com/OFcWnFz.png" group-title="OLAHRAGA",OPTUS 1
@@ -453,10 +456,16 @@ https://smart-tv.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS1(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" group-title="OLAHRAGA",Fox Sports 1
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
 
+#EXTINF:-1 tvg-id="FOXSPORTS1(60FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" group-title="OLAHRAGA",Fox Sports 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174669&extension=ts&play_token=eYcVCzh36m
+
 
 === FOX SPORTS 2 ===
 #EXTINF:-1 tvg-id="FOXSPORTS2(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" group-title="OLAHRAGA",Fox Sports 2
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15906
+
+#EXTINF:-1 tvg-id="FOXSPORTS2(60FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" group-title="OLAHRAGA",Fox Sports 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174670&extension=ts&play_token=IdEBSk7LYU
 
 
 === ESPN ===
