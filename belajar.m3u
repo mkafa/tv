@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL1_1" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 1
-https://kusnadipepenk.github.io/ntn/asp1.m3u8|referer=https://widevine.licenses4.me/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Micjuxr.png" group-title="Nasional", RCTI HD
+https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
