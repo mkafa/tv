@@ -153,6 +153,9 @@ http://tvkuonline.my.id:25461/riyad/riyad/18
 #EXTINF:-1 tvg-id="NETTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="FHD",NET TV
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTx3RKadhzS59FBZb72YkCCY/m3u8
 
+#EXTINF:-1 tvg-id="NETTV_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/640px-NET._sky_blue.svg.png" group-title="FHD",NET TV
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/80292
+
 
 === DW ENGLISH ===
 #EXTINF:-1 tvg-id="DWENGLISH(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/640px-Deutsche_Welle_symbol_2012.svg.png" group-title="FHD",DW English
