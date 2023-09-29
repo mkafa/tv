@@ -89,6 +89,9 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w504410639_
 #EXTINF:-1 tvg-id="METROTV_5" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="HD",METRO TV
 https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
+#EXTINF:-1 tvg-id="METROTV_6" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="HD",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+
 
 === TV ONE ===
 #EXTINF:-1 tvg-id="TVONE_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/640px-TvOne_2023.svg.png" group-title="HD",tvOne
@@ -170,6 +173,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 
 #EXTINF:-1 tvg-id="TVRIWORLD_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/640px-TVRIWorld.png" group-title="HD",TVRI WORLD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="TVRIWORLD_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/640px-TVRIWorld.png" group-title="HD",TVRI WORLD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 
 === TVRI ACEH ===
