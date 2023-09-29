@@ -280,3 +280,8 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/165062
 === NHK WORLD ===
 #EXTINF:-1 tvg-id="NHKWORLD_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png" group-title="HD",NHK WORLD
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298560
+
+
+=== CBS NEWS ===
+#EXTINF:-1 tvg-id="CBSNEWS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/640px-CBS_News_logo_%282020%29.svg.png" group-title="HD",CBS NEWS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
