@@ -102,6 +102,9 @@ http://tvkuonline.my.id:25461/riyad/riyad/22
 #EXTINF:-1 tvg-id="INEWS_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="FHD",iNews
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT44Tg6k1h3hFg9vx0BhMX_g/m3u8
 
+#EXTINF:-1 tvg-id="INEWS_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/640px-INews.png" group-title="FHD",iNews
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157579
+
 
 === SKY NEWS ===
 #EXTINF:-1 tvg-id="SKYNEWS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/640px-Sky-news-logo.png" group-title="FHD",sky news
