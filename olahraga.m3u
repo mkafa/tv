@@ -250,6 +250,9 @@ http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79486&extension=m
 #EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30567&extension=ts&play_token=J9uc80NqLf
 
+#EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/270
+
 
 === TNT SPORTS 2 ===
 #EXTINF:-1 tvg-id="TNTSPORTS2_1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 2
@@ -257,6 +260,9 @@ http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79485&extension=m
 
 #EXTINF:-1 tvg-id="TNTSPORTS2(FHD_50FPS)_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30566&extension=ts&play_token=ayVZEia0Wv
+
+#EXTINF:-1 tvg-id="TNTSPORTS2_3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/273
 
 
 === TNT SPORTS 3 ===
@@ -266,6 +272,9 @@ http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79484&extension=m
 #EXTINF:-1 tvg-id="TNTSPORTS3_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30565&extension=ts&play_token=0bNvgqId6c
 
+#EXTINF:-1 tvg-id="TNTSPORTS3(FHD_50FPS)_3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 3
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/271
+
 
 === TNT SPORTS 4 ===
 #EXTINF:-1 tvg-id="TNTSPORTS4(FHD)_1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 4
@@ -274,15 +283,24 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1019935&exten
 #EXTINF:-1 tvg-id="TNTSPORTS4(FHD_50FPS)_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30564&extension=ts&play_token=Rz0gqHV6FB
 
+#EXTINF:-1 tvg-id="TNTSPORTS4(FHD_50FPS)_3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 4
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298471
+
 
 === TNT SPORTS 5 ===
 #EXTINF:-1 tvg-id="TNTSPORTS5_1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports5_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1004548&extension=ts&play_token=G75akirTu3
 
+#EXTINF:-1 tvg-id="TNTSPORTS5_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports5_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 5
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1124
+
 
 === TNT SPORTS 6 ===
 #EXTINF:-1 tvg-id="TNTSPORTS6_1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports6_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 6
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1004551&extension=ts&play_token=Ahqici2biD
+
+#EXTINF:-1 tvg-id="TNTSPORTS6_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports6_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 6
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/47961
 
 
 === NBA TV ===
@@ -361,7 +379,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174795&extens
 
 === NOW PREMIER SPORTS 1 ===
 #EXTINF:-1 tvg-id="NOWPREMIERSPORTS1(FHD_50FPS)_1" tvg-logo="https://www.nowtv.now.com/media/s-logo/621_e.png" group-title="OLAHRAGA",now Premier SPORTS 1
-
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110622&extension=ts&play_token=BrD8bb6Q6I
 
 
 === NOW PREMIER SPORTS 2 ===
@@ -517,6 +535,9 @@ https://kusnadipepenk.github.io/ntn/superprem.m3u8
 #EXTINF:-1 tvg-id="SUPERSPORTPREMIERLEAGUE_3" tvg-logo="https://www.livematch.ge/img/SuperSport-epl.png" group-title="OLAHRAGA",SuperSport Premier League
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq
 
+#EXTINF:-1 tvg-id="SUPERSPORTPREMIERLEAGUE_4" tvg-logo="https://www.livematch.ge/img/SuperSport-epl.png" group-title="OLAHRAGA",SuperSport Premier League
+http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT7EUo55-AKINJ5On48aTlSg/m3u8
+
 
 === SUPERSPORT LALIGA ===
 #EXTINF:-1 tvg-id="SUPERSPORTLALIGA_1" tvg-logo="https://livematch.ge/img/supersport-laliga.png" group-title="OLAHRAGA",SuperSport LaLiga
@@ -568,6 +589,12 @@ https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL1_3" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 1
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL1_4" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/162591
+
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL1_5" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 1
+http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115758
+
 
 === TRUE PREMIER FOOTBALL 2 ===
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
@@ -584,6 +611,9 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL2_3" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 2
 https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL2_4" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 2
+http://n2ip.tv:2095/s7w0PrWc/rXJhapu/115509
 
 
 === TRUE PREMIER FOOTBALL 3 ===
