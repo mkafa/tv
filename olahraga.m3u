@@ -18,6 +18,11 @@ https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
 #EXTINF:-1 tvg-id="BEINSPORTSTHAILAND_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="BEINSPORTSTHAILAND_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
+https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
 
 === BEIN SPORTS 2 INDONESIA ===
 #EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2
@@ -281,8 +286,11 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1004551&exten
 #EXTINF:-1 tvg-id="NBATV(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12722
 
-#EXTINF:-1 tvg-id="NBATV(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
+#EXTINF:-1 tvg-id="NBATV(FHD)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=282052&extension=m3u8
+
+#EXTINF:-1 tvg-id="NBATV(FHD)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
+http://37.49.230.161:8080/1eae94e3/GpDddDC8ddMxhY2n/2051
 
 
 === OPTUS SPORT 1 ===
@@ -537,6 +545,11 @@ https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL1_2" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 1
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL1_3" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 1
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
 
 === TRUE PREMIER FOOTBALL 2 ===
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
@@ -548,6 +561,11 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL2_2" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 2
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL2_3" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 2
+https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 
 === TRUE PREMIER FOOTBALL 3 ===
@@ -561,6 +579,11 @@ https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL3_2" tvg-logo="https://i.imgur.com/0PqRci8.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 3
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL3_3" tvg-logo="https://i.imgur.com/0PqRci8.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 3
+https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
 
 === TRUE PREMIER FOOTBALL 4 ===
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
@@ -573,6 +596,11 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL4_2" tvg-logo="https://i.imgur.com/IuurqFv.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 4
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL4_3" tvg-logo="https://i.imgur.com/IuurqFv.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 4
+https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
 
 === TRUE PREMIER FOOTBALL 5 ===
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
@@ -584,6 +612,11 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL5_2" tvg-logo="https://i.imgur.com/xkqzy95.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 5
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTINF:-1 tvg-id="TRUEPREMIERFOOTBALL5_3" tvg-logo="https://i.imgur.com/xkqzy95.png" group-title="OLAHRAGA",true PREMIER FOOTBALL 5
+https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 
 === VIA PLAY 1 ===
