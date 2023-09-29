@@ -10,6 +10,9 @@ http://tvkuonline.my.id:25461/riyad/riyad/14
 #EXTINF:-1 tvg-id="SCTV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD",SCTV
 http://tvkuonline.my.id:25461/riyad/riyad/16
 
+#EXTINF:-1 tvg-id="SCTV_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="FHD",SCTV
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162141
+
 
 === MENTARI TV ===
 #EXTINF:-1 tvg-id="MENTARITV_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mentari_TV.png/640px-Mentari_TV.png" group-title="FHD",mentari tv
@@ -65,6 +68,9 @@ http://tvkuonline.my.id:25461/riyad/riyad/08
 
 #EXTINF:-1 tvg-id="RCTI_2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png" group-title="FHD",RCTI
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peTzcYoCAReY46ChruYbYJGME/m3u8
+
+#EXTINF:-1 tvg-id="RCTI_3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png" group-title="FHD",RCTI
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/157591
 
 
 === GTV ===
