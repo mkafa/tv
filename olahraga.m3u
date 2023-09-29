@@ -5,36 +5,41 @@
 #EXTINF:-1 tvg-id="BEINSPORTS(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/640px-BeIN_Sports_logo_%282017%29.png" group-title="OLAHRAGA",beIN Sports
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1143059
 
+#EXTVLCOPT:http-user-agent=Daytv 43
+#EXTVLCOPT:http-referrer=https://www.histar.tv/live
+#EXTINF:-1 tvg-id="BEINSPORTS_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/640px-BeIN_Sports_logo_%282017%29.png" group-title="OLAHRAGA",beIN Sports
+https://us.dispatch.ulivetv.net/v/live/cg4725fntcqo.m3u8?stream_id=cg4725fntcqo&timestamp=1691405579&rand=VbeOgLUpha&uuid=9b647b3816b2a66a&from=web&sign=418288018e1ea208cabfcc4a76ac3f55
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+#EXTINF:-1 tvg-id="BEINSPORTS_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BeIN_Sports_logo_%282017%29.png/640px-BeIN_Sports_logo_%282017%29.png" group-title="OLAHRAGA",beIN Sports
+https://hometv.biz.id/my/dash-wv/linear/408/default_primary.mpd
+
 
 === BEIN SPORTS 1 INDONESIA ===
 #EXTINF:-1 tvg-id="BEINSPORTS1INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
 https://nonton.site:8443/ekos/7483/728
 
-#EXTINF:-1 tvg-id="BEINSPORTS1INDONESIA(50FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
-https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
-
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#EXTINF:-1 tvg-id="BEINSPORTSTHAILAND_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
+#EXTINF:-1 tvg-id="BEINSPORTSTHAILAND_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTINF:-1 tvg-id="BEINSPORTSTHAILAND_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
+#EXTINF:-1 tvg-id="BEINSPORTSTHAILAND_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="OLAHRAGA",beIN Sports 1
 https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
 
 === BEIN SPORTS 2 INDONESIA ===
-#EXTINF:-1 tvg-id="BEINSPORTS2INDONESIA(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2
-
+#EXTVLCOPT:http-referrer=https://www.histar.tv/live
+#EXTINF:-1 tvg-id="BEINSPORTS2_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png" group-title="OLAHRAGA",beIN Sports 2
+https://us.dispatch.ulivetv.net/v/live/cg476ghmetvk.m3u8?stream_id=cg476ghmetvk&timestamp=1691405629&rand=aBGgYadmpp&uuid=9b647b3816b2a66a&from=web&sign=b84a7a8886da3d8537135dd76ad4443b
 
 
 === BEIN SPORTS 3 INDONESIA ===
 #EXTINF:-1 tvg-id="BEINSPORTS3INDONESIA_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
 https://nonton.site:8443/ekos/7483/729
-
-#EXTINF:-1 tvg-id="BEINSPORTS3INDONESIA(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
-https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 
 
 === BEIN SPORTS 3 ===
@@ -42,6 +47,11 @@ https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-id="BEINSPORTS3THAILAND_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
+#EXTVLCOPT:http-user-agent=Daytv 43
+#EXTVLCOPT:http-referrer=https://www.histar.tv/live
+#EXTINF:-1 tvg-id="BEINSPORTS3_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png" group-title="OLAHRAGA",beIN Sports 3
+https://us.dispatch.ulivetv.net/v/live/cg47a0abw91c.m3u8?stream_id=cg47a0abw91c&timestamp=1691405660&rand=qfk1ft3xsG&uuid=9b647b3816b2a66a&from=web&sign=678ceaeacc20f13ff1b80436fc478048
 
 
 === BEIN SPORTS 1 ENGLISH ===
@@ -100,6 +110,11 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=115615&ext
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT1_6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/640px-Astro_ASSP1.png" group-title="OLAHRAGA",astro SUPERSPORT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918986&extension=ts&play_token=qlRIAi8Y1v
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT1_7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_ASSP1.png/640px-Astro_ASSP1.png" group-title="OLAHRAGA",astro SUPERSPORT LIVE
+https://hometv.biz.id/my/dash-wv/linear/9986/default_ott.mpd
+
 
 === ASTRO SUPERSPORT 2 ===
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -111,6 +126,11 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115616&ext
 
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT2_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Astro_ASSP2.png/640px-Astro_ASSP2.png" group-title="OLAHRAGA",astro SUPERSPORT 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918985&extension=ts&play_token=V832PuXxGo
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT2_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Astro_ASSP2.png/640px-Astro_ASSP2.png" group-title="OLAHRAGA",astro SUPERSPORT 2 LIVE
+https://hometv.biz.id/my/dash-wv/linear/9987/default_ott.mpd
 
 
 === ASTRO SUPERSPORT 3 ===
@@ -124,6 +144,11 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115617&ext
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT3_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Astro_ASSP3.png/640px-Astro_ASSP3.png" group-title="OLAHRAGA",astro SUPERSPORT 3
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918984&extension=ts&play_token=6y9HS29VM3
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT3_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Astro_ASSP3.png/640px-Astro_ASSP3.png" group-title="OLAHRAGA",astro SUPERSPORT 3 LIVE
+https://hometv.biz.id/my/dash-wv/linear/9988/default_ott.mpd
+
 
 === ASTRO SUPERSPORT 4 ===
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -135,6 +160,11 @@ http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=115618&ext
 
 #EXTINF:-1 tvg-id="ASTROSUPERSPORT4(FHD_50FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Astro_ASSP4.png/640px-Astro_ASSP4.png" group-title="OLAHRAGA",astro SUPERSPORT 4
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=918983&extension=ts&play_token=gcm2TixtOK
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506 
+#EXTINF:-1 tvg-id="ASTROSUPERSPORT4_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Astro_ASSP4.png/640px-Astro_ASSP4.png" group-title="OLAHRAGA",astro SUPERSPORT 4
+https://hometv.biz.id/my/dash-wv/linear/2506/default_primary.mpd
 
 
 === SPORTSTARS ===
@@ -243,6 +273,11 @@ https://webudit.webdicdn.lol/lb/premium130/index.m3u8?|referer=https://bhqwplay.
 #EXTINF:-1 tvg-id="EUROSPORTS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508123&extension=ts&play_token=xsQxddiIez
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
+#EXTINF:-1 tvg-id="EUROSPORTS_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/640px-Eurosport_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS
+https://hometv.biz.id/my/dash-wv/linear/2100/default_ott.mpd
+
 
 === EUROSPORTS 1 ===
 #EXTINF:-1 tvg-id="EUROSPORTS1(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
@@ -254,6 +289,13 @@ http://91.233.215.250:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 tvg-id="EUROSPORTS1_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508162&extension=ts&play_token=L4D2gbJR3c
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+#EXTINF:-1 tvg-id="EUROSPORTS1_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 1
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-031/stream.mpd
+
 
 === EUROSPORTS 2 ===
 #EXTINF:-1 tvg-id="EUROSPORTS2(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 2
@@ -264,6 +306,13 @@ http://91.233.215.250:7272/4TViUcJR91U6Lzr
 
 #EXTINF:-1 tvg-id="EUROSPORTS2_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508161&extension=ts&play_token=VNgJDJiKDV
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+#EXTINF:-1 tvg-id="EUROSPORTS2_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png" group-title="OLAHRAGA",EUROSPORTS 2
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
 
 
 === TNT SPORTS 1 ===
@@ -358,6 +407,13 @@ http://37.49.230.161:8080/1eae94e3/GpDddDC8ddMxhY2n/2051
 
 #EXTINF:-1 tvg-id="NBATV(FHD)_4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174795&extension=ts&play_token=Kux57Ra1IK
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+#EXTINF:-1 tvg-id="NBATV_5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/640px-NBA_TV.svg.png" group-title="OLAHRAGA",NBA TV
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
 
 
 === OPTUS SPORT 1 ===
@@ -730,37 +786,50 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=163608&extens
 #EXTINF:-1 tvg-id="VIAPLAYXTRA_1" tvg-logo="https://tv.assets.pressassociation.io/23723282-20e6-56f1-896e-782312d89d18.png" group-title="OLAHRAGA",viaplay Xtra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
+#EXTINF:-1 tvg-id="VIAPLAYXTRA_2" tvg-logo="https://tv.assets.pressassociation.io/23723282-20e6-56f1-896e-782312d89d18.png" group-title="OLAHRAGA",viaplay Xtra
+https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
+
 
 === HUB PREMIER 1 ===
-#EXTINF:-1 tvg-id="HUBPREMIER1(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORTS" ,HUB PREMIER 1
+#EXTINF:-1 tvg-id="HUBPREMIER1(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="OLAHRAGA" ,HUB PREMIER 1
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032529&extension=ts&play_token=g75CjvYlU7
 
 
 === HUB PREMIER 2 ===
-#EXTINF:-1 tvg-id="HUBPREMIER2(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORTS" ,HUB PREMIER 2
+#EXTINF:-1 tvg-id="HUBPREMIER2(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="OLAHRAGA" ,HUB PREMIER 2
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032528&extension=ts&play_token=9AHuedo13h
 
 
 === HUB PREMIER 3 ===
-#EXTINF:-1 tvg-id="HUBPREMIER3(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="SPORTS" ,HUB PREMIER 3
+#EXTINF:-1 tvg-id="HUBPREMIER3(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="OLAHRAGA" ,HUB PREMIER 3
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032527&extension=ts&play_token=Et5fP65J8n
 
 
 === HUB PREMIER 4 ===
-#EXTINF:-1 tvg-id="HUBPREMIER4(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="SPORTS" ,HUB PREMIER 4
+#EXTINF:-1 tvg-id="HUBPREMIER4(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="OLAHRAGA" ,HUB PREMIER 4
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032526&extension=ts&play_token=enHys0aCdI
 
 
 === HUB PREMIER 5 ===
-#EXTINF:-1 tvg-id="HUBPREMIER5(FHD_50FPS)_1" tvg-logo="https://icdb.tv/images/f0a89ced41a91f16764275894d80a10f.jpg" group-title="SPORTS" ,HUB PREMIER 5
+#EXTINF:-1 tvg-id="HUBPREMIER5(FHD_50FPS)_1" tvg-logo="https://icdb.tv/images/f0a89ced41a91f16764275894d80a10f.jpg" group-title="OLAHRAGA" ,HUB PREMIER 5
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032525&extension=ts&play_token=enHys0aCdI
 
 
 === HUB PREMIER 6 ===
-#EXTINF:-1 tvg-id="HUBPREMIER6(FHD_50FPS)_1" tvg-logo="https://icdb.tv/images/d5110e36b95be6e4acf3d82973f24745.jpg" group-title="SPORTS" ,HUB PREMIER 6
+#EXTINF:-1 tvg-id="HUBPREMIER6(FHD_50FPS)_1" tvg-logo="https://icdb.tv/images/d5110e36b95be6e4acf3d82973f24745.jpg" group-title="OLAHRAGA" ,HUB PREMIER 6
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032524&extension=ts&play_token=enHys0aCdI
 
 
 === HUB PREMIER 7 ===
-#EXTINF:-1 tvg-id="HUBPREMIER7(FHD_50FPS)_1" tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" group-title="SPORTS" ,HUB PREMIER 7
+#EXTINF:-1 tvg-id="HUBPREMIER7(FHD_50FPS)_1" tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" group-title="OLAHRAGA" ,HUB PREMIER 7
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1032523&extension=ts&play_token=enHys0aCdI
+
+
+=== K+ SPORT 1 ===
+#EXTINF:-1 tvg-id="K+SPORT1_1" tvg-logo="http://gg.gg/ksport1kkk" group-title="OLAHRAGA",K+ SPORT 1
+https://iplogger.com/C1B4TV
+
+
+=== K+ SPORT 2 ===
+#EXTINF:-1 tvg-id="K+SPORT2_1" tvg-logo="http://gg.gg/ksport2kkk" group-title="OLAHRAGA",K+ SPORT 2
+https://iplogger.com/C2B4TV
