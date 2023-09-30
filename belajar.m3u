@@ -2,6 +2,6 @@
 
 
 #EXTVLCOPT:http-user-agent=QreatifkuTV/2.6(Android11)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=20000000
 #EXTINF:-1, OPTUS 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519251_&extension=ts
