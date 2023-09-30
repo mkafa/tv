@@ -59,6 +59,9 @@ http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT31_kHTEUfAHyYBe-ME__44/m3u8
 #EXTINF:-1 tvg-id="METROTV_3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="FHD",METRO TV
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT-RARAuhQkNVUhTeUE8OhVw/m3u8
 
+#EXTINF:-1 tvg-id="METROTV(60FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png" group-title="FHD",METRO TV
+https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+
 
 === TV ONE ===
 #EXTINF:-1 tvg-id="TVONE_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/640px-TvOne_2023.svg.png" group-title="FHD",tv One
