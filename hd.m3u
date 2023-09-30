@@ -183,8 +183,11 @@ http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
 #EXTINF:-1 tvg-id="INDOSIAR_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="HD",INDOSIAR
 http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162138
 
-#EXTINF:-1 tvg-id="INDOSIAR_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="HD",INDOSIAR
+#EXTINF:-1 tvg-id="INDOSIAR_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="HD",INDOSIAR
 http://tvnid.x10.mx/vidio/master.m3u8
+
+#EXTINF:-1 tvg-id="INDOSIAR_4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png" group-title="HD",INDOSIAR
+http://xtv.ooo:8080/88876776555/87677666654/350972
 
 
 === SCTV ===
@@ -198,6 +201,9 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298550
 
 #EXTINF:-1 tvg-id="MOJI_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="HD",moji
 http://tvnid.x10.mx/vidio/master-2.m3u8
+
+#EXTINF:-1 tvg-id="MOJI(50FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="HD",moji
+http://iptvtree.net:8080/minionbob/e76dcbdc11/298550
 
 
 === TVRI ===
