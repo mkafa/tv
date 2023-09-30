@@ -208,6 +208,9 @@ http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4904
 #EXTINF:-1 tvg-id="SKYSPORTARENA(FHD)_3" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sports arena
 https://webudit.webdicdn.lol/lb/premium36/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="SKYSPORTARENA(FHD)_4" tvg-logo="https://imocovolley.it/wp-content/uploads/2019/11/skyarena.png" group-title="OLAHRAGA",sky sports arena
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30500&extension=ts&play_token=zulkarnain@.ts
+
 
 === SKY SPORTS NEWS ===
 #EXTINF:-1 tvg-id="SKYSPORTSNEWS_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/640px-Sky_sports_news_2021_logo.svg.png" group-title="OLAHRAGA",sky sports news
@@ -224,10 +227,16 @@ http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4906
 #EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT(FHD)_2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="OLAHRAGA",sky sports main event
 https://webudit.webdicdn.lol/lb/premium38/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT(FHD)_3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="OLAHRAGA",sky sports main event
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30496&extension=ts&play_token=zulkarnain@.ts
+
 
 === SKY SPORTS MIX ===
 #EXTINF:-1 tvg-id="SKYSPORTSMIX(FHD)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/640px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="OLAHRAGA",sky sports mix
 https://webudit.webdicdn.lol/lb/premium449/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0 https://webudit.webdicdn.lol/lb/premium449/mono.m3u8
+
+#EXTINF:-1 tvg-id="SKYSPORTSMIX(FHD)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/640px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="OLAHRAGA",sky sports mix
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30495&extension=ts&play_token=zulkarnain@.ts
 
 
 === SKY SPORTS F1 ===
@@ -239,6 +248,9 @@ http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4902
 
 #EXTINF:-1 tvg-id="SKYSPORTSF1(FHD)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/640px-Sky_Sports_F1_logo_2020.svg.png" group-title="OLAHRAGA",sky sport f1
 https://webudit.webdicdn.lol/lb/premium60/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="SKYSPORTSF1_4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/640px-Sky_Sports_F1_logo_2020.svg.png" group-title="OLAHRAGA",sky sport f1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts&play_token=zulkarnain@.ts
 
 
 === SKY SPORTS FOOTBALL ===
@@ -254,6 +266,9 @@ http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4907
 #EXTINF:-1 tvg-id="SKYSPORTFOOTBALL_4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
 https://webudit.webdicdn.lol/lb/premium35/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="SKYSPORTFOOTBALL(FHD_50FPS)_4" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sky_Sports_Football.png" group-title="OLAHRAGA",sky sport football
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts&play_token=zulkarnain@.ts
+
 
 === SKY SPORTS PREMIER LEAGUE ===
 #EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE_1" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Premier League
@@ -267,6 +282,9 @@ http://sideriodomi.ottc.pro:80/4Bqu8yrdiQ7PhNU/T2pK1IHJDz/4905
 
 #EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE(FHD)_4" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Premier League
 https://webudit.webdicdn.lol/lb/premium130/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="SKYSPORTPRIMIERLEAGUE(50FPS)_5" tvg-logo="https://ia600808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="OLAHRAGA",sky sport Premier League
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30493&extension=ts&play_token=zulkarnain@.ts
 
 
 === EUROSPORTS ===
@@ -329,6 +347,9 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/270
 #EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 1
 https://webudit.webdicdn.lol/lb/premium31/index.m3u8
 
+#EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_5" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts&play_token=zulkarnain@.ts
+
 
 === TNT SPORTS 2 ===
 #EXTINF:-1 tvg-id="TNTSPORTS2_1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 2
@@ -339,6 +360,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30566&extensi
 
 #EXTINF:-1 tvg-id="TNTSPORTS2_3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 2
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/273
+
+#EXTINF:-1 tvg-id="TNTSPORTS2(FHD)_4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 2
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts&play_token=zulkarnain@.ts
 
 
 === TNT SPORTS 3 ===
@@ -355,6 +379,9 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/271
 #EXTINF:-1 tvg-id="TNTSPORTS3(FHD_50FPS)_4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 3
 https://webudit.webdicdn.lol/lb/premium33/index.m3u8
 
+#EXTINF:-1 tvg-id="TNTSPORTS3_5" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts&play_token=zulkarnain@.ts
+
 
 === TNT SPORTS 4 ===
 #EXTINF:-1 tvg-id="TNTSPORTS4(FHD)_1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 4
@@ -365,6 +392,9 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30564&extensi
 
 #EXTINF:-1 tvg-id="TNTSPORTS4(FHD_50FPS)_3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 4
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298471
+
+#EXTINF:-1 tvg-id="TNTSPORTS4(FHD_50FPS)_4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 4
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30564&extension=ts&play_token=zulkarnain@.ts
 
 
 === TNT SPORTS 5 ===
@@ -543,8 +573,11 @@ http://waduklah@4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=554949&e
 
 
 === NOW SPORTS 3 ===
-#EXTINF:-1 tvg-id="NOWSPORTS3(50FPS)_1" tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="OLAHRAGA",now SPORTS 3
+#EXTINF:-1 tvg-id="NOWSPORTS3(FHD_50FPS)_1" tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="OLAHRAGA",now SPORTS 3
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts&play_token=zulkarnain@.ts
 
+#EXTINF:-1 tvg-id="NOWSPORTS3(FHD_50FPS)_2" tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="OLAHRAGA",now SPORTS 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497553&extension=ts
 
 
 === NOW SPORTS 4 ===
