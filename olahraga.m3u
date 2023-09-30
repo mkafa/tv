@@ -322,8 +322,12 @@ http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79486&extension=m
 #EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30567&extension=ts&play_token=J9uc80NqLf
 
-#EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 1
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/270
+ 
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="TNTSPORTS1(FHD_50FPS)_4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 1
+https://webudit.webdicdn.lol/lb/premium31/index.m3u8
 
 
 === TNT SPORTS 2 ===
@@ -346,6 +350,10 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30565&extensi
 
 #EXTINF:-1 tvg-id="TNTSPORTS3(FHD_50FPS)_3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 3
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/271
+
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="TNTSPORTS3(FHD_50FPS)_4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="OLAHRAGA",TNT SPORTS 3
+https://webudit.webdicdn.lol/lb/premium33/index.m3u8
 
 
 === TNT SPORTS 4 ===
@@ -585,6 +593,10 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
 #EXTINF:-1 tvg-id="FOXSPORTS1(60FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" group-title="OLAHRAGA",Fox Sports 1
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174669&extension=ts&play_token=eYcVCzh36m
 
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="FOXSPORTS1(60FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/640px-2015_Fox_Sports_1_logo.svg.png" group-title="OLAHRAGA",Fox Sports 1
+https://webudit.webdicdn.lol/lb/premium39/index.m3u8
+
 
 === FOX SPORTS 2 ===
 #EXTINF:-1 tvg-id="FOXSPORTS2(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" group-title="OLAHRAGA",Fox Sports 2
@@ -593,15 +605,21 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15906
 #EXTINF:-1 tvg-id="FOXSPORTS2(60FPS)_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" group-title="OLAHRAGA",Fox Sports 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174670&extension=ts&play_token=IdEBSk7LYU
 
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="FOXSPORTS2(60FPS)_3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" group-title="OLAHRAGA",Fox Sports 2
+https://webudit.webdicdn.lol/lb/premium758/index.m3u8
+
 
 === ESPN ===
 #EXTINF:-1 tvg-id="ESPN(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="OLAHRAGA",ESPN
-
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webdicdn.lol/lb/premium44/index.m3u8
 
 
 === ESPN 2 ===
 #EXTINF:-1 tvg-id="ESPN2(60FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="OLAHRAGA",ESPN 2
-
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudi.webdicdn.lol/lb/premium45/index.m3u8
 
 
 === ESPN U ===
@@ -637,6 +655,10 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extens
 #EXTINF:-1 tvg-id="SUPERSPORTPREMIERLEAGUE_4" tvg-logo="https://www.livematch.ge/img/SuperSport-epl.png" group-title="OLAHRAGA",SuperSport Premier League
 http://ogietv.biz.id:80/play/mVMeCEAjCktaeOQ3p_peT7EUo55-AKINJ5On48aTlSg/m3u8
 
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="SUPERSPORTPREMIERLEAGUE_5" tvg-logo="https://www.livematch.ge/img/SuperSport-epl.png" group-title="OLAHRAGA",SuperSport Premier League
+https://webudit.webdicdn.lol/lb/premium414/index.m3u8
+
 
 === SUPERSPORT LALIGA ===
 #EXTINF:-1 tvg-id="SUPERSPORTLALIGA_1" tvg-logo="https://livematch.ge/img/supersport-laliga.png" group-title="OLAHRAGA",SuperSport LaLiga
@@ -644,6 +666,10 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
 
 #EXTINF:-1 tvg-id="SUPERSPORTLALIGA_2" tvg-logo="https://livematch.ge/img/supersport-laliga.png" group-title="OLAHRAGA",SuperSport LaLiga
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239076&extension=ts&play_token=WDliZuSmkz
+
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="SUPERSPORTLALIGA_3" tvg-logo="https://livematch.ge/img/supersport-laliga.png" group-title="OLAHRAGA",SuperSport LaLiga
+https://webudit.webdicdn.lol/lb/premium415/index.m3u8
 
 
 === SUPERSPORT FOOTBALL ===
@@ -653,10 +679,18 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186981
 #EXTINF:-1 tvg-id="SUPERSPORTFOOTBALL_2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="OLAHRAGA",SuperSport Football
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239083&extension=ts&play_token=tJv2b2KNwD
 
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="SUPERSPORTFOOTBALL_3" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="OLAHRAGA",SuperSport Football
+https://webudit.webdicdn.lol/lb/premium56/index.m3u8
+
 
 === SUPERSPORT PSL ===
 #EXTINF:-1 tvg-id="SUPERSPORTPSL_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/s6b35j1629404341.png" group-title="OLAHRAGA",SuperSport psl
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239077&extension=ts&play_token=wAy6FmsPtA
+
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="SUPERSPORTPSL_2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/s6b35j1629404341.png" group-title="OLAHRAGA",SuperSport psl
+https://webudit.webdicdn.lol/lb/premium413/index.m3u8
 
 
 === SUPERSPORT MOTORSPORT ===
@@ -665,6 +699,10 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186989
 
 #EXTINF:-1 tvg-id="SUPERSPORTMOTORSPORT_2" tvg-logo="https://ia801807.us.archive.org/30/items/racinguk-01_202011/supersport-motorsport.png" group-title="OLAHRAGA",SuperSport motorsport
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
+
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="SUPERSPORTMOTORSPORT_3" tvg-logo="https://ia801807.us.archive.org/30/items/racinguk-01_202011/supersport-motorsport.png" group-title="OLAHRAGA",SuperSport motorsport
+https://webudit.webdicdn.lol/lb/premium424/index.m3u8
 
 
 === FUBO SPORTS ===
@@ -789,6 +827,9 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="VIAPLAYXTRA_2" tvg-logo="https://tv.assets.pressassociation.io/23723282-20e6-56f1-896e-782312d89d18.png" group-title="OLAHRAGA",viaplay Xtra
 https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
 
+#EXTINF:-1 tvg-id="VIAPLAYXTRA(FHD)_3" tvg-logo="https://tv.assets.pressassociation.io/23723282-20e6-56f1-896e-782312d89d18.png" group-title="OLAHRAGA",viaplay Xtra
+http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
+
 
 === HUB PREMIER 1 ===
 #EXTINF:-1 tvg-id="HUBPREMIER1(FHD_50FPS)_1" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="OLAHRAGA" ,HUB PREMIER 1
@@ -833,3 +874,9 @@ https://iplogger.com/C1B4TV
 === K+ SPORT 2 ===
 #EXTINF:-1 tvg-id="K+SPORT2_1" tvg-logo="http://gg.gg/ksport2kkk" group-title="OLAHRAGA",K+ SPORT 2
 https://iplogger.com/C2B4TV
+
+
+=== CBS SPORTS NETWORK ===
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTINF:-1 tvg-id="CBSSPORTSNETWORK(50FPS)_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/640px-CBS_Sports_Network_2021.svg.png" group-title="OLAHRAGA",CBS SPORTS NETWORK
+https://webudi.webdicdn.lol/lb/premium308/index.m3u8
