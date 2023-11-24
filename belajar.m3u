@@ -23,3 +23,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174669&extens
 
 #EXTINF:-1 tvg-id="TNTSPORTS1_1" group-title="Channel 1,TNT SPORTS 1
 http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79486&extension=m3u8
+
+#EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT(FHD)_3" group-title="Channel 1,sky sports main event
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30496&extension=ts&play_token=zulkarnain@.ts
