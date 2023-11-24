@@ -8,3 +8,6 @@ http://vo01.mohdtv.com:8880/voby0326/92496642/2875
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTINF:-1 tvg-id="RCTI_1" group-title="Channel 1",RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-id="HUB_1" group-title="Channel 1",HUB SPORT PREMIER 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350557_&extension=ts
