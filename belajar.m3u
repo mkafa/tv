@@ -14,3 +14,9 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1350557_&ext
 
 #EXTINF:-1 tvg-id="OPTUS1(50FPS)_1" group-title="Channel 1,OPTUS 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1519251_&extension=ts
+
+#EXTINF:-1 tvg-id="FOXSPORTS1(60FPS)_1" group-title="Channel 1,Fox Sports 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
+
+#EXTINF:-1 tvg-id="FOXSPORTS1(60FPS)_2" group-title="Channel 1,Fox Sports 1 backup
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174669&extension=ts&play_token=eYcVCzh36m
