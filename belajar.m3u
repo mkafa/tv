@@ -20,3 +20,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
 
 #EXTINF:-1 tvg-id="FOXSPORTS1(60FPS)_2" group-title="Channel 1,Fox Sports 1 backup
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=174669&extension=ts&play_token=eYcVCzh36m
+
+#EXTINF:-1 tvg-id="TNTSPORTS1_1" group-title="Channel 1,TNT SPORTS 1
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=79486&extension=m3u8
