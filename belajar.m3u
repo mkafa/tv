@@ -1,3 +1,2 @@
-#EXT-X-VERSION:3
-#EXTINF:-1,BANDWIDTH=2000000,antv
-http://210.210.155.35/uq2663/h/h235/02.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="UK SPORTS",UK: TNT SPORTS  1
+http://ua-iptv.com:8080/emmanuelepie/13598371/755417
