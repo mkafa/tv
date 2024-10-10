@@ -1,2 +1,5 @@
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="UK SPORTS",UK: TNT SPORTS  1
-http://ua-iptv.com:8080/emmanuelepie/13598371/755417
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/x6rFRdn/rcti.png",RCTI HD 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
