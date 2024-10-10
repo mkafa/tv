@@ -15,3 +15,7 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 6 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+
+
+#EXTINF:-1,UK: TNT SPORTS  1_1
+http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPCV5s9PSJjVIX4PXI1avYN
