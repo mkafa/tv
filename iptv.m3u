@@ -1,1 +1,192 @@
+#EXTM3U
 
+----- EMTEK GRUP -----
+
+#EXTINF:-1,Indosiar
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
+
+#EXTINF:-1,Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1,Indosiar
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
+
+#EXTINF:-1,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1,Moji
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
+
+----- EMTEK GRUP -----
+
+----- TRANS CORP -----
+
+#EXTINF:-1,BANDWIDTH=744100,Trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1989690183_b744100_sleng.m3u8
+
+#EXTINF:-1,Trans7
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1,Trans7
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162502
+
+#EXTINF:-1,Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1,Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1,BANDWIDTH=744100,TransTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b744100_sleng.m3u8
+
+#EXTINF:-1,Transtv
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1,Transtv
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162503
+
+#EXTINF:-1,Transtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1,Transtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1,BANDWIDTH=384000,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w898568527_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1,CNBC Indonesia
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165062
+
+#EXTINF:-1,BANDWIDTH=384000,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w218144659_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1,CNN Indonesia
+https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
+
+#EXTINF:-1,CNN Indonesia
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162137
+
+----- TRANS CORP -----
+
+----- MNC GRUP -----
+
+#EXTINF:-1,RCTI
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/157591
+
+#EXTINF:-1,MNC TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165054
+
+#EXT-X-VERSION:5
+#EXTINF:-1,BANDWIDTH=2988287,INews
+https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
+
+#EXTINF:-1,INews
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/157579
+
+#EXTINF:-1,INews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1,Sportstars 1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+
+#EXTINF:-1,Sportstars 2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+
+#EXTINF:-1,SportStars 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304861
+
+#EXTINF:-1,Soccer Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
+----- MNC GRUP -----
+
+----- BAKRIE GRUP -----
+
+#EXTINF:-1,ANTV
+https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
+
+#EXTINF:-1,ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTINF:-1,TVOne
+https://ythls.kekikakademi.org/youtube/video/yNKvkPJl-tg.m3u8
+
+#EXTINF:-1,TVOne
+https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
+
+#EXTINF:-1,TVOne 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+----- BAKRIE GRUP -----
+
+----- SWASTA -----
+
+#EXTINF:-1,KOMPAS
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ythls.kekikakademi.org/youtube/video/DOOrIxw5xOw.m3u8
+
+#EXTINF:-1,KOMPAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
+#EXTINF:-1,METRO TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165059
+
+#EXTINF:-1,METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+----- SWASTA -----
+
+----- NASIONAL -----
+
+#EXTINF:-1,TVRI
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1,TVRI WORLD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1,TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+----- NASIONAL -----
