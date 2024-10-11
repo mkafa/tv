@@ -19,8 +19,26 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 #EXTINF:-1,TNT SPORTS 1
 http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPCV5s9PSJjVIX4PXI1avYN
 
+#EXTINF:0,TNT Sport 2
+http://1.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPVFXughJkuny59sjBNhhMYDdJ5lK5izjAwsTK97G4g1 
+
+#EXTINF:0,TNT Sport 3
+http://1.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBh6b73uevF2wkYSFpnND9VJ1UACh7IkOTBnDFKdge5p
+
 #EXTINF:-1,SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTINF:-1,NBA TV
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
+
+#EXTINF:0,Sky Sports Football
+http://1.1usd.tv:34000/ch314/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdMlOW5J3ZJHG2xmQexyVgVqM8yUKXS8IfNsemEh1H1cW 
+
+#EXTINF:0,Sky Sports Main Event
+http://1.1usd.tv:34000/ch335/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFDQKDwoNxv36xe2NdHOrNVfAcceiiRg9pulOSlr3BRe
+
+#EXTINF:0,NOW SPORTS 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304092
+
+#EXTINF:0,NOW SPORTS 1
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
