@@ -5,8 +5,11 @@
 #EXTINF:-1,Indosiar
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
 
-#EXTINF:-1,SCTV
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=204&type=drm 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#EXTINF:-1,SCTV FHD
+https://sritv.serv00.net/red/play.mpd?id=204&type=dash
 
 #EXTINF:-1,Moji
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
