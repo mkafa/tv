@@ -9,6 +9,18 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
 #EXTINF:-1,SCTV
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
+#EXTINF:-1,SCTV-HD_play.2
+http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
+
+#EXTINF:-1,🇲🇨 SCTV.(3)
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
+
+#EXTINF:-1,🇲🇨 SCTV.(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101188
+
+#EXTINF:-1,SCTV.(z)
+https://zozotv.xyz:443/live/lisshomestay/@1212/46.ts
+
 #EXTINF:-1,Moji
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
 
