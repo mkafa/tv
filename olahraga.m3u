@@ -16,6 +16,9 @@ http://1.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
+#EXTINF:-1,SPOTV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -40,3 +43,18 @@ http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425335.ts
 
 #EXTINF:-1,BeinSport
 http://Supersonictv.live:8080/live/006779/439866/22187.ts
+
+#EXTINF:-1,SkySport Premier League
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
+
+#EXTINF:-1,Astro Supersport
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
+
+#EXTINF:-1,Astro Supersport 2
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
+
+#EXTINF:-1,Astro Supersport 3
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
+
+#EXTINF:-1,Astro Supersport 4
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
