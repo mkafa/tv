@@ -5,9 +5,6 @@
 #EXTINF:-1,Indosiar
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162138
 
-#EXTINF:-1,Indosiar
-http://tv.cloudcdn.me/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTINF:-1,SCTV
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -17,9 +14,6 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
 
 #EXTINF:-1,Moji
 http://xtv.ooo:8080/0966717777/0966717777/350997
-
-#EXTINF:-1,Moji
-https://s.id/MOJI_shareext-xs
 
 #EXTINF:-1,MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -117,9 +111,6 @@ https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1,RCTI
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
-
-#EXTINF:-1,RCTI
-https://allcutv.rctiplus.id/rcti2023.m3u8
 
 #EXTINF:-1,RCTI
 https://1s1.rctiplus.id/rcti2023.m3u8
@@ -238,9 +229,6 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,TVRI
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1,TVRI
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
 
 #EXTINF:-1,TVRI WORLD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
