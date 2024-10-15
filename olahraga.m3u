@@ -3,9 +3,6 @@
 #EXTINF:-1,TNT Sport 1
 http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPCV5s9PSJjVIX4PXI1avYN
 
-#EXTINF:-1,TNT Sport 1
-https://7pal.short.gy/tntspts1
-
 #EXTINF:0,TNT Sport 2
 http://1.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPVFXughJkuny59sjBNhhMYDdJ5lK5izjAwsTK97G4g1 
 
@@ -46,3 +43,6 @@ http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425335.ts
 
 #EXTINF:-1,BeinSport
 http://Supersonictv.live:8080/live/006779/439866/22187.ts
+
+#EXTINF:-1,sky sports main event
+http://1.1usd.tv:34000/ch335/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFDQKDwoNxv36xe2NdHOrNVfAcceiiRg9pulOSlr3BRe
