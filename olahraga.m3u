@@ -73,24 +73,3 @@ http://Supersonictv.live:8080/live/006779/439866/22187.ts
 
 #EXTINF:-1,Sky Sports Main Event
 http://1.1usd.tv:34000/ch335/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFDQKDwoNxv36xe2NdHOrNVfAcceiiRg9pulOSlr3BRe
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd" group-title="USA Sport", NBC USA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.ibb.co.com/T4dqdwR/nbcsp.png" group-title="MPD SPORT", ~~NBC SPORTS 馃嚭馃嚫
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA Sport", CBS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
-https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd
