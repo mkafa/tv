@@ -1,15 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1,TNT Sport 1
-http://1.1usd.tv:34000/ch236/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdNaqAirFMGhN7snmkusBGLPCV5s9PSJjVIX4PXI1avYN
+http://cdn.troya.one:80/ch236/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPHxVPkvgxC8tmdX25Nj0gbpJk-lAZe0vuJiJAOJKmiP
 
 #EXTINF:0,TNT Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1,TNT Sport 1
+https://webuit.mizhls.ru/lb/premium31/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
+#EXTINF:-1,TNT Sport 1
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+
 #EXTINF:0,TNT Sport 2
-http://1.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPVFXughJkuny59sjBNhhMYDdJ5lK5izjAwsTK97G4g1 
+http://cdn.troya.one:80/ch334/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iAz4eMHJDtwQLyxuAQuJbReaGgroadplzXNnkg7BcmQm 
 
 #EXTINF:0,TNT Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -17,7 +23,7 @@ http://1.1usd.tv:34000/ch334/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktd
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:0,TNT Sport 3
-http://1.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdBh6b73uevF2wkYSFpnND9VJ1UACh7IkOTBnDFKdge5p
+http://cdn.troya.one:80/ch233/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iD3kRA9YmozotyKGU-cQsyy6lZO6oi7FmbgqG1CRlk-z
 
 #EXTINF:-1,TNT Sport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -25,10 +31,16 @@ http://1.1usd.tv:34000/ch233/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktd
 http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1,TNT Sport 4
+http://cdn.troya.one:80/ch2002/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iNEmtrT7f6OoprznNrj3Y9VUBdDwhSxlhKnKV534-kBd
+
+#EXTINF:-1,TNT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1,TNT Sport 5
+http://cdn.troya.one:80/ch2081/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHA4VKvSlgQh-NF5yJYSWzZuXpJsMvwRzH2lWMtEEPJm
 
 #EXTINF:-1,TNT Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -89,6 +101,18 @@ http://Supersonictv.live:8080/live/006779/439866/22187.ts
 
 #EXTINF:-1,Sky Sports Main Event
 http://1.1usd.tv:34000/ch335/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdFDQKDwoNxv36xe2NdHOrNVfAcceiiRg9pulOSlr3BRe
+
+#EXTINF:-1,Sky Sports Main Event
+http://cdn.troya.one:80/ch2448/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEQOB0gZg-AzKxbiN9O04TdOWIkxD9Hxs-FGo6ZPyfce
+
+#EXTINF:-1,Sky Sports Main Event
+http://cdn.troya.one:80/ch335/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHLOQYzUbVM6blwNkIsSkK_8_s5EVux7Dq5KS9w0U8zM
+
+#EXTINF:-1,sky sports premier league
+http://cdn.troya.one:80/ch2451/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJsbL8io78DBKwoug5FURmyqtHCTpmvZ11HwOE5We2TR
+
+#EXTINF:-1,sky sports premier league
+http://cdn.troya.one:80/ch1554/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOUwENwOxKXrsLvHYCA8E_CX3R_XfJq8kqwaPCEZmUl2
 
 #EXTINF:-1, Hub Premier 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305270
