@@ -5,6 +5,22 @@
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNTSport1(src01).uk" tvg-name="BT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="SPORTS (DADDY LIVE)" ,BT Sport 1
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSport1(src01).uk" tvg-name="BT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="SPORTS (DADDY LIVE)" ,BT Sport 1
+https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+
+#EXTINF:-1 tvg-id="TNTSport1(src01).uk" tvg-name="BT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="SPORTS (DADDY LIVE)" ,BT Sport 1
+https://webhdrunns.mizhls.ru/lb/premium31/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSport1(src01).uk" tvg-name="BT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="SPORTS (DADDY LIVE)" ,BT Sport 1
+#KODIPROP:inputstream.adaptive.license_key={"Referer":"https://ilovetoplay.xyz/","User-Agent":"Mozilla/5.0 (Android 9; Tablet; rv:62.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.1388.65 Safari/537.36","Origin":"https://ilovetoplay.xyz"}
+https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8
+
 #EXTINF:0,TNT Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
