@@ -104,7 +104,7 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305453
 #EXTINF:-1,BeinSport
 http://Supersonictv.live:8080/live/006779/439866/22187.ts
 
-#EXTINF:-1 tvg-id="SkySPPL(src01).uk" tvg-name="Sky sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,Sky sports Premier League
+#EXTINF:-1,Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
@@ -112,12 +112,6 @@ https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8
 
 #EXTINF:-1,Sky Sports Premier League
 http://cdn.troya.one:80/ch1554/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOUwENwOxKXrsLvHYCA8E_CX3R_XfJq8kqwaPCEZmUl2
-
-#EXTINF:-1 tvg-id="SkySpMainEv(src01).uk" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="SPORTS (DADDY LIVE)" ,Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium38/index.m3u8
 
 #EXTINF:-1, Hub Premier 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305270
@@ -149,13 +143,13 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/733115
 #EXTINF:-1,OPTUS SPORT 3 HD
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/733116
 
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network (CBSSN)" tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" group-title="SPORTS (DADDY LIVE)" ,CBS Sports Network (CBSSN)
+#EXTINF:-1,CBS Sports Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium308/index.m3u8
 
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/usa-us.png" group-title="USA (DADDY LIVE)" ,USA Network
+#EXTINF:-1,USA Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
