@@ -14,6 +14,9 @@ https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8
 #EXTINF:-1,TNT Sport 1
 https://xyzdddd.mizhls.ru/lb/premium31/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
+#EXTINF:-1,TNT Sport 1
+http://ru.seetv.cc/play/922/9D6A08075AD5F53/video.m3u8
+
 #EXTINF:0,TNT Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
@@ -25,6 +28,9 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium32/index.m3u8
 
+#EXTINF:-1,TNT Sport 2
+http://ru.seetv.cc/play/923/9D6A08075AD5F53/video.m3u8
+
 #EXTINF:-1,TNT Sport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -35,6 +41,9 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/ou
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium33/index.m3u8
+
+#EXTINF:-1,TNT Sport 3
+http://ru.seetv.cc/play/934/9D6A08075AD5F53/video.m3u8
 
 #EXTINF:-1,TNT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -72,13 +81,7 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1,NOW SPORTS 1
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304092
-
-#EXTINF:-1,NOW SPORTS 1
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
-
-#EXTINF:-1,NOW SPORTS 2
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304091
 
 #EXTINF:-1,NOW SPORTS 2
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425333.ts
@@ -87,19 +90,7 @@ http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425333.ts
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425334.ts
 
 #EXTINF:-1,NOW SPORTS 4
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304090
-
-#EXTINF:-1,NOW SPORTS 4
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425335.ts
-
-#EXTINF:-1,NOW SPORTS 5
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304086
-
-#EXTINF:-1,NOW SPORTS 6
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304087
-
-#EXTINF:-1,NOW SPORTS 7
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305453
 
 #EXTINF:-1,BeinSport
 http://Supersonictv.live:8080/live/006779/439866/22187.ts
@@ -112,27 +103,6 @@ https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8
 
 #EXTINF:-1,Sky Sports Premier League
 http://cdn.troya.one:80/ch1554/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOUwENwOxKXrsLvHYCA8E_CX3R_XfJq8kqwaPCEZmUl2
-
-#EXTINF:-1, Hub Premier 1
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305270
-
-#EXTINF:-1,Hub Premier 2
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305271
-
-#EXTINF:-1,Hub Premier 3
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305272
-
-#EXTINF:-1,Hub Premier 4
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305273
-
-#EXTINF:-1,Hub Premier 5
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305274
-
-#EXTINF:-1,Hub Premier 6
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305275
-
-#EXTINF:-1,Hub Premier 7
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/305276
 
 #EXTINF:-1,CBS Sports Network
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
