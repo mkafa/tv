@@ -83,6 +83,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 #EXTINF:-1,NOW SPORTS 1
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
 
+#EXTINF:-1,NOW SPORTS 1
+http://shareext@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
+
 #EXTINF:-1,NOW SPORTS 2
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425333.ts
 
