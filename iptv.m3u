@@ -82,9 +82,6 @@ https://1s1.rctiplus.id/rcti2023.m3u8
 #EXTINF:-1,RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1,RCTI
-https://zozotv.xyz:443/live/mubaen/k895427/47.ts
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 #EXTVLCOPT:http-referrer=https://visionplus.id
