@@ -26,14 +26,41 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1,BeinSport
-http://Supersonictv.live:8080/live/006779/439866/22187.ts
-
 #EXTINF:-1,Sky Sports Football
 https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8
 
 #EXTINF:-1,Sky Sports Main Event
 https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
 
-#EXTINF:-1,Sky Sports Main Event
-https://xyzdddd.mizhls.ru/lb/premium38/index.m3u8
+#EXTINF:-1,Sky sports Premier League
+https://dokko1new.iosplayer.ru/dokko1/premium130/mono.m3u8
+
+#EXTINF:-1,CBS Sports Network
+https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1,Sky Sport 1 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium588/mono.m3u8
+
+#EXTINF:-1,Sky Sport 2 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium589/mono.m3u8
+
+#EXTINF:-1,Sky Sport 3 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8
+
+#EXTINF:-1,Sky Sport 4 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium591/mono.m3u8
+
+#EXTINF:-1,Sky Sport 5 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium592/mono.m3u8
+
+#EXTINF:-1,Sky Sport 6 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium593/mono.m3u8
+
+#EXTINF:-1,Sky Sport 7 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8
+
+#EXTINF:-1,Sky Sport 8 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
+
+#EXTINF:-1,Sky Sport 9 NZ
+https://dokko1new.iosplayer.ru/dokko1/premium596/mono.m3u8
