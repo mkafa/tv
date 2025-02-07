@@ -14,6 +14,25 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/index.m3u8
 #EXTINF:-1,Indosiar
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|Referer=https://www.indihometv.com
 
+#EXTINF:-1,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1,SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 group-title="INDIHOME" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", SCTV
+https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/index.m3u8
+
+#EXTINF:-1,Moji
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
 ----- EMTEK GRUP -----
 
 ----- TRANS CORP -----
@@ -125,7 +144,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
 
 #EXTINF:-1,TVOne
-
+http://iptv12k.com:35461/654321/123456/2181
 
 ----- BAKRIE GRUP -----
 
