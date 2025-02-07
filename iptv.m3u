@@ -74,12 +74,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1,RCTI
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
-
-#EXTINF:-1,RCTI
-https://1s1.rctiplus.id/rcti2023.m3u8
-
-#EXTINF:-1,RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -89,9 +83,6 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1,MNC TV
-https://1s1.rctiplus.id/mnctv2023.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -99,25 +90,12 @@ https://1s1.rctiplus.id/mnctv2023.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:0,GTV
-https://1s1.rctiplus.id/gtv2023.m3u8
-
-#EXT-X-VERSION:5
-#EXTINF:-1,BANDWIDTH=2988287,INews
-https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1,INews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1,INews
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-cdn-fly.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
@@ -139,12 +117,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1,Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
 ----- MNC GRUP -----
 
 ----- BAKRIE GRUP -----
@@ -153,13 +125,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 https://cdn09jtedge.indihometv.com/atm/hlsv3/ANTV/ANTV.m3u8?c
 
 #EXTINF:-1,TVOne
-https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
+
 
 ----- BAKRIE GRUP -----
 
 ----- SWASTA -----
 
-#EXTINF:-1,KOMPAS
+#EXTINF:-1,Kompas TV
 https://cdn09jtedge.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_1500000=10-mp4a_96000=2.m3u8
 
 #EXTINF:-1,Metro TV
