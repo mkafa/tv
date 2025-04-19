@@ -168,7 +168,12 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-
 ----- NASIONAL -----
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"92964e74bebce041660fb124b8976680":"b90847044266ac963f96654336370090"}
-#EXTINF:-1 tvg-id="Bein 1" tvg-logo="https://iili.io/3fANlv1.png" group-title="SPORT Vidio",BEIN SPORT 1 HD
+#KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://iili.io/3fAkHp1.png" group-title="SPORT Vidio",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sweet-night-1d1d.worst.workers.dev/?id=17884&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ca1cf7890604c98959160aa80a8fc3e":"4a545ab7495d40f186a5bf3d88d47802"}
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://iili.io/3fAkHp1.png" group-title="SPORT Vidio",CHAMPION TV 6 HD
+http://103.180.118.5:9981/stream/channelid/1954083177?profile=pass
