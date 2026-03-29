@@ -139,6 +139,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
+#EXTINF:-1,Kompas TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774809525/ei/VR3JaYL7DeS36dsPnry2iQE/ip/86.107.43.88/id/DOOrIxw5xOw.231/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AUUZDGKMokvvgDGHL_1S6wXHiNnaDtpmqx6j3iZoihEg2-oMRL_iq89idGoZjMIBZ2Dh2of8eWOuJeHi/spc/jlWavX2K2YxV32RCGdjyJIJU2HED8alixdjdyQJm0zMVl_zlQAQwPRhPFIg4zYz9BGnXQQ/vprv/1/go/1/ns/ZxaBuQmFrpLKmfvfuP4w_N0T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/ss_EblwG2CTH64Df24/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAJA7386RXGHIN1VzKnlMdN8YizylHPafUXgbJQMuLTtoAiABofxA4PGXslSL16wioZ9_cEydo5JxHznaNh9taccCzw%3D%3D/file/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 #EXTINF:-1,Metro TV
