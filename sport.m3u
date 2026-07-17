@@ -137,3 +137,6 @@ https://tvratu.my.id/vid/index.mpd?id=18190
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21178
 https://tvratu.my.id/vid/index.mpd?id=21178
+
+#EXTINF:-1 tvg-id="FoxSports.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",FOX Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
