@@ -103,13 +103,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png",SCTV
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" tvg-logo="https://yt3.googleusercontent.com/aaCKfg0ytm8q4DFlMy7fBw8rKd-I52hx6uUvqyHwDetcg43sHp9hWJlwQ0HZI8bHXtNz78P3=s900-c-k-c0x00ffffff-no-rj",SindoNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=5
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
-
 #EXTINF:-1 tvg-id="Trans7.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/59e42ba7-a1d7-45af-a69e-8ca05ca51029.jpg",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -131,28 +124,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-#EXTINF:-1 tvg-id="TVRI.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e55c83f-b399-4884-8b57-273acb663344.png",TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e14b89e-d803-454f-a35a-752163f30803.png",TVRI Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
-#EXTINF:-1 tvg-id="SPOTV.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/3z4IXSoTGsuKPvJPvNPJ6GV0HNs=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg",SPOTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-
-#EXTINF:-1 tvg-id="SPOTV2.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/4S55d0i94p-RevrBKlwv_T17eMQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
