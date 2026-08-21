@@ -40,8 +40,13 @@ https://tvratu.my.id/vid/index.mpd?id=6686
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6786
 https://tvratu.my.id/vid/index.mpd?id=6786
 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=9182.drm
 #EXTINF:-1 tvg-id="ChampionsTV5.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/ASLKYqJRc7EcmgTAGGYEmHAOjNE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg",Champions TV 5
-https://lb15.strmd.st/secure/KLBoJmcVmHmYcLvqcqPZueAokRAArVrQ/rtmp/stream/NwWEeR7LI5x95w_ZAuOymbo6xVnGBrr2ScLJQmO9m3T07CWPIJ3Tk_fdY26Zx4GVw7kcpoDz1cq31w/1/high/mono.m3u8
+http://tvratu.my.id/nissa/index.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="ChampionsTV6.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/06OzfwJZc4HgGW9zIbrKRmmb77A=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
