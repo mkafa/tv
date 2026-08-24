@@ -18,7 +18,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0cc347d7-f3dc-49e8-ac20-53f4c3257019.jpg",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w766556031_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dc7d7072-39d4-4978-bc34-4e7654fe4469.jpg",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
