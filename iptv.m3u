@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=782.drm
 #EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png",ANTV
-#http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png",ANTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
