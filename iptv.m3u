@@ -45,6 +45,16 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
+#EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/0B-hoFNxUjwVal7N6StlyDBUTlQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg",iNews
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1786276114~hmac=bde20ad7a566ff88384760f9d8c4d3760ff2588092df70845950149335036a34
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/0B-hoFNxUjwVal7N6StlyDBUTlQ=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg",iNews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
 #EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f0771c7b-d473-4fa4-ad0f-cdffd4bc0ac5.jpg",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
